@@ -1,0 +1,2251 @@
+[{
+    'title': 'Um Sonho de Liberdade',
+    'year': '1994',
+    'movieLength': '2h 22m',
+    'description': 'Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion.',
+    'director': 'Writers, Stephen King(based on the short novel ", Rita Hayworth and the Shawshank Redemption" by), Frank Darabont(screenplay by)',
+    'writer': 'Stephen King(based on the short novel "Rita Hayworth and the Shawshank Redemption" by), Frank Darabont(screenplay by)',
+    'stars': 'Tim Robbins, Morgan Freeman, Bob Gunton',
+    'imbdRating': '9.3/10'
+}, {
+    'title': 'O Poderoso Chefão',
+    'year': '1972',
+    'movieLength': '2h 55m',
+    'description': 'The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.',
+    'director': 'Writers, Mario Puzo(screenplay by), Francis Ford Coppola(screenplay by)',
+    'writer': 'Mario Puzo(screenplay by), Francis Ford Coppola(screenplay by)',
+    'stars': 'Marlon Brando, Al Pacino, James Caan',
+    'imbdRating': '9.2/10'
+}, {
+    'title': 'Batman: O Cavaleiro das Trevas',
+    'year': '2008',
+    'movieLength': '2h 32m',
+    'description': 'When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.',
+    'director': 'Writers, Jonathan Nolan(screenplay), Christopher Nolan(screenplay), David S. Goyer(story)',
+    'writer': 'Jonathan Nolan(screenplay), Christopher Nolan(screenplay), David S. Goyer(story)',
+    'stars': 'Christian Bale, Heath Ledger, Aaron Eckhart',
+    'imbdRating': '9.0/10'
+}, {
+    'title': 'O Poderoso Chefão II',
+    'year': '1974',
+    'movieLength': '3h 22m',
+    'description': 'The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.',
+    'director': 'Writers, Francis Ford Coppola(screenplay by), Mario Puzo(screenplay by)',
+    'writer': 'Francis Ford Coppola(screenplay by), Mario Puzo(screenplay by)',
+    'stars': 'Al Pacino, Robert De Niro, Robert Duvall',
+    'imbdRating': '9.0/10'
+}, {
+    'title': '12 Homens e uma Sentença',
+    'year': '1957',
+    'movieLength': '1h 36m',
+    'description': 'The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.',
+    'director': 'Writer, Reginald Rose(teleplay ", Twelve Angry Men")',
+    'writer': 'Reginald Rose(teleplay "Twelve Angry Men")',
+    'stars': 'Henry Fonda, Lee J. Cobb, Martin Balsam',
+    'imbdRating': '9.0/10'
+}, {
+    'title': 'A Lista de Schindler',
+    'year': '1993',
+    'movieLength': '3h 15m',
+    'description': 'In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.',
+    'director': 'Writers, Thomas Keneally(book), Steven Zaillian(screenplay)',
+    'writer': 'Thomas Keneally(book), Steven Zaillian(screenplay)',
+    'stars': 'Liam Neeson, Ralph Fiennes, Ben Kingsley',
+    'imbdRating': '9.0/10'
+}, {
+    'title': 'O Senhor dos Anéis: O Retorno do Rei',
+    'year': '2003',
+    'movieLength': '3h 21m',
+    'description': "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    'director': 'Writers, J., R., R. Tolkien(novel ", The Return of the King"), Fran Walsh(screenplay), Philippa Boyens(screenplay)',
+    'writer': 'J.R.R. Tolkien(novel "The Return of the King"), Fran Walsh(screenplay), Philippa Boyens(screenplay)',
+    'stars': 'Elijah Wood, Viggo Mortensen, Ian Mc, Kellen',
+    'imbdRating': '9.0/10'
+}, {
+    'title': 'Pulp Fiction: Tempo de Violência',
+    'year': '1994',
+    'movieLength': '2h 34m',
+    'description': 'The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.',
+    'director': 'Writers, Quentin Tarantino(stories by), Roger Avary(stories by)',
+    'writer': 'Quentin Tarantino(stories by), Roger Avary(stories by)',
+    'stars': 'John Travolta, Uma Thurman, Samuel L. Jackson',
+    'imbdRating': '8.9/10'
+}, {
+    'title': 'O Senhor dos Anéis: A Sociedade do Anel',
+    'year': '2001',
+    'movieLength': '2h 58m',
+    'description': 'A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.',
+    'director': 'Writers, J., R., R. Tolkien(novel ", The Fellowship of the Ring"), Fran Walsh(screenplay), Philippa Boyens(screenplay)',
+    'writer': 'J.R.R. Tolkien(novel "The Fellowship of the Ring"), Fran Walsh(screenplay), Philippa Boyens(screenplay)',
+    'stars': 'Elijah Wood, Ian Mc, Kellen, Orlando Bloom',
+    'imbdRating': '8.8/10'
+}, {
+    'title': 'Três Homens em Conflito',
+    'year': '1966',
+    'movieLength': '2h 41m',
+    'description': 'A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.',
+    'director': 'Writers, Luciano Vincenzoni(story), Sergio Leone(story), Agenore Incrocci(screenplay)',
+    'writer': 'Luciano Vincenzoni(story), Sergio Leone(story), Agenore Incrocci(screenplay)',
+    'stars': 'Clint Eastwood, Eli Wallach, Lee Van Cleef',
+    'imbdRating': '8.8/10'
+}, {
+    'title': 'Forrest Gump: O Contador de Histórias',
+    'year': '1994',
+    'movieLength': '2h 22m',
+    'description': 'The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.',
+    'director': 'Writers, Winston Groom(novel), Eric Roth(screenplay)',
+    'writer': 'Winston Groom(novel), Eric Roth(screenplay)',
+    'stars': 'Tom Hanks, Robin Wright, Gary Sinise',
+    'imbdRating': '8.8/10'
+}, {
+    'title': 'Clube da Luta',
+    'year': '1999',
+    'movieLength': '2h 19m',
+    'description': 'An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.',
+    'director': 'Writers, Chuck Palahniuk(based on the novel by), Jim Uhls(screenplay by)',
+    'writer': 'Chuck Palahniuk(based on the novel by), Jim Uhls(screenplay by)',
+    'stars': 'Brad Pitt, Edward Norton, Meat Loaf',
+    'imbdRating': '8.8/10'
+}, {
+    'title': 'O Senhor dos Anéis: As Duas Torres',
+    'year': '2002',
+    'movieLength': '2h 59m',
+    'description': "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+    'director': 'Writers, J., R., R. Tolkien(novel ", The Two Towers"), Fran Walsh(screenplay), Philippa Boyens(screenplay)',
+    'writer': 'J.R.R. Tolkien(novel "The Two Towers"), Fran Walsh(screenplay), Philippa Boyens(screenplay)',
+    'stars': 'Elijah Wood, Ian Mc, Kellen, Viggo Mortensen',
+    'imbdRating': '8.8/10'
+}, {
+    'title': 'A Origem',
+    'year': '2010',
+    'movieLength': '2h 28m',
+    'description': 'A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.',
+    'director': 'Writer, Christopher Nolan',
+    'writer': 'Christopher Nolan',
+    'stars': 'Leonardo Di, Caprio, Joseph Gordon-Levitt, Elliot Page',
+    'imbdRating': '8.8/10'
+}, {
+    'title': 'O Império Contra-Ataca',
+    'year': '1980',
+    'movieLength': '2h 4m',
+    'description': 'After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.',
+    'director': 'Writers, Leigh Brackett(screenplay by), Lawrence Kasdan(screenplay by), George Lucas(story by)',
+    'writer': 'Leigh Brackett(screenplay by), Lawrence Kasdan(screenplay by), George Lucas(story by)',
+    'stars': 'Mark Hamill, Harrison Ford, Carrie Fisher',
+    'imbdRating': '8.7/10'
+}, {
+    'title': 'Matrix',
+    'year': '1999',
+    'movieLength': '2h 16m',
+    'description': 'When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.',
+    'director': 'Writers, Lilly Wachowski, Lana Wachowski',
+    'writer': 'Lilly WachowskiLana Wachowski',
+    'stars': 'Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss',
+    'imbdRating': '8.7/10'
+}, {
+    'title': 'Os Bons Companheiros',
+    'year': '1990',
+    'movieLength': '2h 25m',
+    'description': 'The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.',
+    'director': 'Writers, Nicholas Pileggi(book ", Wiseguy"), Martin Scorsese(screenplay)',
+    'writer': 'Nicholas Pileggi(book "Wiseguy"), Martin Scorsese(screenplay)',
+    'stars': 'Robert De Niro, Ray Liotta, Joe Pesci',
+    'imbdRating': '8.7/10'
+}, {
+    'title': 'Um Estranho no Ninho',
+    'year': '1975',
+    'movieLength': '2h 13m',
+    'description': 'In the Fall of 1963, a Korean War veteran and criminal pleads insanity and is admitted to a mental institution, where he rallies up the scared patients against the tyrannical nurse.',
+    'director': 'Writers, Lawrence Hauben(screenplay), Bo Goldman(screenplay), Ken Kesey(based on the novel by)',
+    'writer': 'Lawrence Hauben(screenplay), Bo Goldman(screenplay), Ken Kesey(based on the novel by)',
+    'stars': 'Jack Nicholson, Louise Fletcher, Michael Berryman',
+    'imbdRating': '8.7/10'
+}, {
+    'title': 'Seven: Os Sete Crimes Capitais',
+    'year': '1995',
+    'movieLength': '2h 7m',
+    'description': 'Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.',
+    'director': 'Writer, Andrew Kevin Walker',
+    'writer': 'Andrew Kevin Walker',
+    'stars': 'Morgan Freeman, Brad Pitt, Kevin Spacey',
+    'imbdRating': '8.6/10'
+}, {
+    'title': 'Os Sete Samurais',
+    'year': '1954',
+    'movieLength': '3h 27m',
+    'description': 'Farmers from a village exploited by bandits hire a veteran samurai for protection, who gathers six other samurai to join him.',
+    'director': 'Writers, Akira Kurosawa(screenplay by), Shinobu Hashimoto(screenplay by), Hideo Oguni(screenplay by)',
+    'writer': 'Akira Kurosawa(screenplay by), Shinobu Hashimoto(screenplay by), Hideo Oguni(screenplay by)',
+    'stars': 'Toshirô Mifune, Takashi Shimura, Keiko Tsushima',
+    'imbdRating': '8.6/10'
+}, {
+    'title': 'A Felicidade Não se Compra',
+    'year': '1946',
+    'movieLength': '2h 10m',
+    'description': 'An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.',
+    'director': 'Writers, Frances Goodrich(screenplay by), Albert Hackett(screenplay by), Frank Capra(screenplay by)',
+    'writer': 'Frances Goodrich(screenplay by), Albert Hackett(screenplay by), Frank Capra(screenplay by)',
+    'stars': 'James Stewart, Donna Reed, Lionel Barrymore',
+    'imbdRating': '8.6/10'
+}, {
+    'title': 'O Silêncio dos Inocentes',
+    'year': '1991',
+    'movieLength': '1h 58m',
+    'description': 'A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.',
+    'director': 'Writers, Thomas Harris(based on the novel by), Ted Tally(screenplay by)',
+    'writer': 'Thomas Harris(based on the novel by), Ted Tally(screenplay by)',
+    'stars': 'Jodie Foster, Anthony Hopkins, Lawrence A. Bonney',
+    'imbdRating': '8.6/10'
+}, {
+    'title': 'Cidade de Deus',
+    'year': '2002',
+    'movieLength': '2h 10m',
+    'description': "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+    'director': 'Writers, Paulo Lins(novel), Bráulio Mantovani(screenplay)',
+    'writer': 'Paulo Lins(novel), Bráulio Mantovani(screenplay)',
+    'stars': 'Alexandre Rodrigues, Leandro Firmino, Matheus Nachtergaele',
+    'imbdRating': '8.6/10'
+}, {
+    'title': 'O Resgate do Soldado Ryan',
+    'year': '1998',
+    'movieLength': '2h 49m',
+    'description': 'Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.',
+    'director': 'Writer, Robert Rodat',
+    'writer': 'Robert Rodat',
+    'stars': 'Tom Hanks, Matt Damon, Tom Sizemore',
+    'imbdRating': '8.6/10'
+}, {
+    'title': 'A Vida é Bela',
+    'year': '1997',
+    'movieLength': '1h 56m',
+    'description': 'When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.',
+    'director': 'Writers, Vincenzo Cerami(story by), Roberto Benigni(story by)',
+    'writer': 'Vincenzo Cerami(story by), Roberto Benigni(story by)',
+    'stars': 'Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini',
+    'imbdRating': '8.6/10'
+}, {
+    'title': 'Interestelar',
+    'year': '2014',
+    'movieLength': '2h 49m',
+    'description': "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    'director': 'Writers, Jonathan Nolan, Christopher Nolan',
+    'writer': 'Jonathan NolanChristopher Nolan',
+    'stars': 'Matthew Mc, Conaughey, Anne Hathaway, Jessica Chastain',
+    'imbdRating': '8.6/10'
+}, {
+    'title': 'À Espera de um Milagre',
+    'year': '1999',
+    'movieLength': '3h 9m',
+    'description': 'The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.',
+    'director': 'Writers, Stephen King(novel), Frank Darabont(screenplay)',
+    'writer': 'Stephen King(novel), Frank Darabont(screenplay)',
+    'stars': 'Tom Hanks, Michael Clarke Duncan, David Morse',
+    'imbdRating': '8.6/10'
+}, {
+    'title': 'Guerra nas Estrelas',
+    'year': '1977',
+    'movieLength': '2h 1m',
+    'description': "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+    'director': 'Writer, George Lucas',
+    'writer': 'George Lucas',
+    'stars': '19771977, Livre, Livre2h 1m',
+    'imbdRating': '8.6/10'
+}, {
+    'title': 'O Exterminador do Futuro 2 - O Julgamento Final',
+    'year': '1991',
+    'movieLength': '2h 17m',
+    'description': 'A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her 10-year old son John from an even more advanced and powerful cyborg.',
+    'director': 'Writers, James Cameron, William Wisher',
+    'writer': 'James CameronWilliam Wisher',
+    'stars': 'Arnold Schwarzenegger, Linda Hamilton, Edward Furlong',
+    'imbdRating': '8.6/10'
+}, {
+    'title': 'De Volta para o Futuro',
+    'year': '1985',
+    'movieLength': '1h 56m',
+    'description': 'Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.',
+    'director': 'Writers, Robert Zemeckis, Bob Gale',
+    'writer': 'Robert ZemeckisBob Gale',
+    'stars': 'Michael J. Fox, Christopher Lloyd, Lea Thompson',
+    'imbdRating': '8.5/10'
+}, {
+    'title': 'A Viagem de Chihiro',
+    'year': '2001',
+    'movieLength': '2h 5m',
+    'description': "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+    'director': 'Writer, Hayao Miyazaki',
+    'writer': 'Hayao Miyazaki',
+    'stars': 'Daveigh Chase(, English version), Suzanne Pleshette(, English version), Miyu Irino(voice)',
+    'imbdRating': '8.6/10'
+}, {
+    'title': 'O Pianista',
+    'year': '2002',
+    'movieLength': '2h 30m',
+    'description': 'A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.',
+    'director': 'Writers, Ronald Harwood(screenplay by), Wladyslaw Szpilman(based on the book by)',
+    'writer': 'Ronald Harwood(screenplay by), Wladyslaw Szpilman(based on the book by)',
+    'stars': 'Adrien Brody, Thomas Kretschmann, Frank Finlay',
+    'imbdRating': '8.5/10'
+}, {
+    'title': 'Psicose',
+    'year': '1960',
+    'movieLength': '1h 49m',
+    'description': "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run and checks into a remote motel run by a young man under the domination of his mother.",
+    'director': 'Writers, Joseph Stefano(screenplay by), Robert Bloch(based on the novel by)',
+    'writer': 'Joseph Stefano(screenplay by), Robert Bloch(based on the novel by)',
+    'stars': 'Anthony Perkins, Janet Leigh, Vera Miles',
+    'imbdRating': '8.5/10'
+}, {
+    'title': 'Parasita',
+    'year': '2019',
+    'movieLength': '2h 12m',
+    'description': 'Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.',
+    'director': 'Writers, Bong Joon Ho(story by), Han Jin-won(screenplay by)',
+    'writer': 'Bong Joon Ho(story by), Han Jin-won(screenplay by)',
+    'stars': 'Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong',
+    'imbdRating': '8.5/10'
+}, {
+    'title': 'O Profissional',
+    'year': '1994',
+    'movieLength': '1h 50m',
+    'description': "12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",
+    'director': 'Writer, Luc Besson',
+    'writer': 'Luc Besson',
+    'stars': 'Jean Reno, Gary Oldman, Natalie Portman',
+    'imbdRating': '8.5/10'
+}, {
+    'title': 'O Rei Leão',
+    'year': '1994',
+    'movieLength': '1h 28m',
+    'description': 'Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.',
+    'director': 'Writers, Irene Mecchi(screenplay by), Jonathan Roberts(screenplay by), Linda Woolverton(screenplay by)',
+    'writer': 'Irene Mecchi(screenplay by), Jonathan Roberts(screenplay by), Linda Woolverton(screenplay by)',
+    'stars': 'Matthew Broderick(voice), Jeremy Irons(voice), James Earl Jones(voice)',
+    'imbdRating': '8.5/10'
+}, {
+    'title': 'Gladiador',
+    'year': '2000',
+    'movieLength': '2h 35m',
+    'description': 'A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.',
+    'director': 'Writers, David Franzoni(story), John Logan(screenplay), William Nicholson(screenplay)',
+    'writer': 'David Franzoni(story), John Logan(screenplay), William Nicholson(screenplay)',
+    'stars': 'Russell Crowe, Joaquin Phoenix, Connie Nielsen',
+    'imbdRating': '8.5/10'
+}, {
+    'title': 'A Outra História Americana',
+    'year': '1998',
+    'movieLength': '1h 59m',
+    'description': 'A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.',
+    'director': 'Writer, David Mc, Kenna',
+    'writer': 'David McKenna',
+    'stars': "Edward Norton, Edward Furlong, Beverly D', Angelo",
+    'imbdRating': '8.5/10'
+}, {
+    'title': 'Os Infiltrados',
+    'year': '2006',
+    'movieLength': '2h 31m',
+    'description': 'An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.',
+    'director': 'Writers, William Monahan(screenplay), Alan Mak(2002 screenplay Mou gaan dou), Felix Chong(2002 screenplay Mou gaan dou)',
+    'writer': 'William Monahan(screenplay), Alan Mak(2002 screenplay Mou gaan dou), Felix Chong(2002 screenplay Mou gaan dou)',
+    'stars': 'Leonardo Di, Caprio, Matt Damon, Jack Nicholson',
+    'imbdRating': '8.5/10'
+}, {
+    'title': 'Os Suspeitos',
+    'year': '1995',
+    'movieLength': '1h 46m',
+    'description': 'A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.',
+    'director': 'Writer, Christopher Mc, Quarrie',
+    'writer': 'Christopher McQuarrie',
+    'stars': 'Kevin Spacey, Gabriel Byrne, Chazz Palminteri',
+    'imbdRating': '8.5/10'
+}, {
+    'title': 'O Grande Truque',
+    'year': '2006',
+    'movieLength': '2h 10m',
+    'description': 'After a tragic accident, two stage magicians in 1890s London engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.',
+    'director': 'Writers, Jonathan Nolan(screenplay), Christopher Nolan(screenplay), Christopher Priest(novel)',
+    'writer': 'Jonathan Nolan(screenplay), Christopher Nolan(screenplay), Christopher Priest(novel)',
+    'stars': 'Christian Bale, Hugh Jackman, Scarlett Johansson',
+    'imbdRating': '8.5/10'
+}, {
+    'title': 'Whiplash: Em Busca da Perfeição',
+    'year': '2014',
+    'movieLength': '1h 46m',
+    'description': "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+    'director': 'Writer, Damien Chazelle',
+    'writer': 'Damien Chazelle',
+    'stars': 'Miles Teller, J., K. Simmons, Melissa Benoist',
+    'imbdRating': '8.5/10'
+}, {
+    'title': 'Casablanca',
+    'year': '1942',
+    'movieLength': '1h 42m',
+    'description': 'A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.',
+    'director': 'Writers, Julius J. Epstein(screenplay), Philip G. Epstein(screenplay), Howard Koch(screenplay)',
+    'writer': 'Julius J. Epstein(screenplay), Philip G. Epstein(screenplay), Howard Koch(screenplay)',
+    'stars': 'Humphrey Bogart, Ingrid Bergman, Paul Henreid',
+    'imbdRating': '8.5/10'
+}, {
+    'title': 'Harakiri',
+    'year': '1962',
+    'movieLength': '2h 13m',
+    'description': "When a ronin requesting seppuku at a feudal lord's palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so challenges the clan's integrity.",
+    'director': 'Writers, Yasuhiko Takiguchi(novel ", Ibun rônin ki"), Shinobu Hashimoto(screenplay)',
+    'writer': 'Yasuhiko Takiguchi(novel "Ibun rônin ki"), Shinobu Hashimoto(screenplay)',
+    'stars': 'Tatsuya Nakadai, Akira Ishihama, Shima Iwashita',
+    'imbdRating': '8.6/10'
+}, {
+    'title': 'Túmulo dos Vagalumes',
+    'year': '1988',
+    'movieLength': '1h 29m',
+    'description': 'A young boy and his little sister struggle to survive in Japan during World War II.',
+    'director': 'Writers, Akiyuki Nosaka(novel), Isao Takahata',
+    'writer': 'Akiyuki Nosaka(novel), Isao Takahata',
+    'stars': 'Tsutomu Tatsumi(voice), Ayano Shiraishi(voice), Akemi Yamaguchi(voice)',
+    'imbdRating': '8.5/10'
+}, {
+    'title': 'Intocáveis',
+    'year': '2011',
+    'movieLength': '1h 52m',
+    'description': 'After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.',
+    'director': 'Writers, Olivier Nakache, Philippe Pozzo di Borgo(adapted from his autobiographical tale Le Second Souffle)Éric Toledano',
+    'writer': 'Olivier NakachePhilippe Pozzo di Borgo(adapted from his autobiographical tale Le Second Souffle)Éric Toledano',
+    'stars': 'François Cluzet, Omar Sy, Anne Le Ny',
+    'imbdRating': '8.5/10'
+}, {
+    'title': 'Tempos Modernos',
+    'year': '1936',
+    'movieLength': '1h 27m',
+    'description': 'The Tramp struggles to live in modern industrial society with the help of a young homeless woman.',
+    'director': 'Writer, Charles Chaplin',
+    'writer': 'Charles Chaplin',
+    'stars': 'Charles Chaplin, Paulette Goddard, Henry Bergman',
+    'imbdRating': '8.5/10'
+}, {
+    'title': 'Era uma Vez no Oeste',
+    'year': '1968',
+    'movieLength': '2h 45m',
+    'description': 'A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.',
+    'director': 'Writers, Sergio Donati(screenplay by), Sergio Leone(screenplay by), Dario Argento(from a story by)',
+    'writer': 'Sergio Donati(screenplay by), Sergio Leone(screenplay by), Dario Argento(from a story by)',
+    'stars': 'Henry Fonda, Charles Bronson, Claudia Cardinale',
+    'imbdRating': '8.5/10'
+}, {
+    'title': 'Janela Indiscreta',
+    'year': '1954',
+    'movieLength': '1h 52m',
+    'description': 'A wheelchair-bound photographer spies on his neighbors from his Greenwich Village courtyard apartment window, and becomes convinced one of them has committed murder, despite the skepticism of his fashion-model girlfriend.',
+    'director': 'Writers, John Michael Hayes(screenplay), Cornell Woolrich(short story)',
+    'writer': 'John Michael Hayes(screenplay), Cornell Woolrich(short story)',
+    'stars': 'James Stewart, Grace Kelly, Wendell Corey',
+    'imbdRating': '8.5/10'
+}, {
+    'title': 'Cinema Paradiso',
+    'year': '1988',
+    'movieLength': '2h 35m',
+    'description': "A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.",
+    'director': 'Writers, Giuseppe Tornatore(story), Vanna Paoli(collaborating writer)',
+    'writer': 'Giuseppe Tornatore(story), Vanna Paoli(collaborating writer)',
+    'stars': 'Philippe Noiret, Enzo Cannavale, Antonella Attili',
+    'imbdRating': '8.5/10'
+}, {
+    'title': 'Alien - O 8º Passageiro',
+    'year': '1979',
+    'movieLength': '1h 57m',
+    'description': 'The crew of a commercial spacecraft encounter a deadly lifeform after investigating an unknown transmission.',
+    'director': "Writers, Dan O', Bannon(screenplay by), Ronald Shusett(story by)",
+    'writer': "Dan O'Bannon(screenplay by), Ronald Shusett(story by)",
+    'stars': 'Sigourney Weaver, Tom Skerritt, John Hurt',
+    'imbdRating': '8.5/10'
+}, {
+    'title': 'Luzes da Cidade',
+    'year': '1931',
+    'movieLength': '1h 27m',
+    'description': 'With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.',
+    'director': 'Writers, Charles Chaplin, Harry Carr(uncredited), Harry Crocker(uncredited)',
+    'writer': 'Charles ChaplinHarry Carr(uncredited), Harry Crocker(uncredited)',
+    'stars': 'Charles Chaplin, Virginia Cherrill, Florence Lee',
+    'imbdRating': '8.5/10'
+}, {
+    'title': 'Apocalypse Now',
+    'year': '1979',
+    'movieLength': '2h 27m',
+    'description': 'A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.',
+    'director': 'Writers, John Milius, Francis Ford Coppola, Michael Herr(narration)',
+    'writer': 'John MiliusFrancis Ford CoppolaMichael Herr(narration)',
+    'stars': 'Martin Sheen, Marlon Brando, Robert Duvall',
+    'imbdRating': '8.5/10'
+}, {
+    'title': 'Amnésia',
+    'year': '2000',
+    'movieLength': '1h 53m',
+    'description': "A man with short-term memory loss attempts to track down his wife's murderer.",
+    'director': 'Writers, Christopher Nolan(screenplay), Jonathan Nolan(short story ", Memento Mori")',
+    'writer': 'Christopher Nolan(screenplay), Jonathan Nolan(short story "Memento Mori")',
+    'stars': 'Guy Pearce, Carrie-Anne Moss, Joe Pantoliano',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'Django Livre',
+    'year': '2012',
+    'movieLength': '2h 45m',
+    'description': 'With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation-owner in Mississippi.',
+    'director': 'Writer, Quentin Tarantino',
+    'writer': 'Quentin Tarantino',
+    'stars': 'Jamie Foxx, Christoph Waltz, Leonardo Di, Caprio',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'Os Caçadores da Arca Perdida',
+    'year': '1981',
+    'movieLength': '1h 55m',
+    'description': 'Archaeology professor Indiana Jones ventures to seize a biblical artefact known as the Ark of the Covenant. While doing so, he puts up a fight against Renee and a troop of Nazis.',
+    'director': 'Writers, Lawrence Kasdan(screenplay by), George Lucas(story by), Philip Kaufman(story by)',
+    'writer': 'Lawrence Kasdan(screenplay by), George Lucas(story by), Philip Kaufman(story by)',
+    'stars': 'Harrison Ford, Karen Allen, Paul Freeman',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'WALL·E',
+    'year': '2008',
+    'movieLength': '1h 38m',
+    'description': 'In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.',
+    'director': 'Writers, Andrew Stanton(original story by), Pete Docter(original story by), Jim Reardon(screenplay by)',
+    'writer': 'Andrew Stanton(original story by), Pete Docter(original story by), Jim Reardon(screenplay by)',
+    'stars': 'Ben Burtt(voice), Elissa Knight(voice), Jeff Garlin(voice)',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'A Vida dos Outros',
+    'year': '2006',
+    'movieLength': '2h 17m',
+    'description': 'In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.',
+    'director': 'Writer, Florian Henckel von Donnersmarck',
+    'writer': 'Florian Henckel von Donnersmarck',
+    'stars': 'Ulrich Mühe, Martina Gedeck, Sebastian Koch',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'Crepúsculo dos Deuses',
+    'year': '1950',
+    'movieLength': '1h 50m',
+    'description': 'A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.',
+    'director': 'Writers, Charles Brackett, Billy Wilder, D., M. Marshman Jr.',
+    'writer': 'Charles BrackettBilly WilderD.M. Marshman Jr.',
+    'stars': 'William Holden, Gloria Swanson, Erich von Stroheim',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'Glória Feita de Sangue',
+    'year': '1957',
+    'movieLength': '1h 28m',
+    'description': 'After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.',
+    'director': 'Writers, Stanley Kubrick(screenplay), Calder Willingham(screenplay), Jim Thompson(screenplay)',
+    'writer': 'Stanley Kubrick(screenplay), Calder Willingham(screenplay), Jim Thompson(screenplay)',
+    'stars': 'Kirk Douglas, Ralph Meeker, Adolphe Menjou',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'O Iluminado',
+    'year': '1980',
+    'movieLength': '2h 26m',
+    'description': 'A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.',
+    'director': 'Writers, Stephen King(based upon the novel by), Stanley Kubrick(screenplay by), Diane Johnson(screenplay by)',
+    'writer': 'Stephen King(based upon the novel by), Stanley Kubrick(screenplay by), Diane Johnson(screenplay by)',
+    'stars': 'Jack Nicholson, Shelley Duvall, Danny Lloyd',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'O Grande Ditador',
+    'year': '1940',
+    'movieLength': '2h 5m',
+    'description': "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+    'director': 'Writer, Charles Chaplin',
+    'writer': 'Charles Chaplin',
+    'stars': 'Charles Chaplin, Paulette Goddard, Jack Oakie',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'Vingadores: Guerra Infinita',
+    'year': '2018',
+    'movieLength': '2h 29m',
+    'description': 'The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.',
+    'director': 'Writers, Christopher Markus(screenplay by), Stephen Mc, Feely(screenplay by), Stan Lee(based on the Marvel comics by)',
+    'writer': 'Christopher Markus(screenplay by), Stephen McFeely(screenplay by), Stan Lee(based on the Marvel comics by)',
+    'stars': 'Robert Downey Jr., Chris Hemsworth, Mark Ruffalo',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'Testemunha de Acusação',
+    'year': '1957',
+    'movieLength': '1h 56m',
+    'description': 'A veteran British barrister must defend his client in a murder trial that has surprise after surprise.',
+    'director': "Writers, Agatha Christie(in Agatha Christie's international stage success), Billy Wilder(screen play), Harry Kurnitz(screen play)",
+    'writer': "Agatha Christie(in Agatha Christie's international stage success), Billy Wilder(screen play), Harry Kurnitz(screen play)",
+    'stars': 'Tyrone Power, Marlene Dietrich, Charles Laughton',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'Aliens, O Resgate',
+    'year': '1986',
+    'movieLength': '2h 17m',
+    'description': 'Fifty-seven years after surviving an apocalyptic attack aboard her space vessel by merciless space creatures, Officer Ripley awakens from hyper-sleep and tries to warn anyone who will listen about the predators.',
+    'director': 'Writers, James Cameron(story by), David Giler(story by), Walter Hill(story by)',
+    'writer': 'James Cameron(story by), David Giler(story by), Walter Hill(story by)',
+    'stars': 'Sigourney Weaver, Michael Biehn, Carrie Henn',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'Homem-Aranha no Aranhaverso',
+    'year': '2018',
+    'movieLength': '1h 57m',
+    'description': 'Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.',
+    'director': 'Writers, Phil Lord(screenplay by), Rodney Rothman(screenplay by)',
+    'writer': 'Phil Lord(screenplay by), Rodney Rothman(screenplay by)',
+    'stars': 'Shameik Moore(voice), Jake Johnson(voice), Hailee Steinfeld(voice)',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'Beleza Americana',
+    'year': '1999',
+    'movieLength': '2h 2m',
+    'description': "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+    'director': 'Writer, Alan Ball',
+    'writer': 'Alan Ball',
+    'stars': 'Kevin Spacey, Annette Bening, Thora Birch',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'Dr. Fantástico',
+    'year': '1964',
+    'movieLength': '1h 35m',
+    'description': 'An insane American general orders a bombing attack on the Soviet Union, triggering a path to nuclear holocaust that a war room full of politicians and generals frantically tries to stop.',
+    'director': 'Writers, Stanley Kubrick(screenplay), Terry Southern(screenplay), Peter George(screenplay)',
+    'writer': 'Stanley Kubrick(screenplay), Terry Southern(screenplay), Peter George(screenplay)',
+    'stars': 'Peter Sellers, George C. Scott, Sterling Hayden',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'Batman: O Cavaleiro das Trevas Ressurge',
+    'year': '2012',
+    'movieLength': '2h 44m',
+    'description': "Eight years after the Joker's reign of chaos, Batman is coerced out of exile with the assistance of the mysterious Selina Kyle in order to defend Gotham City from the vicious guerrilla terrorist Bane.",
+    'director': 'Writers, Jonathan Nolan(screenplay), Christopher Nolan(screenplay), David S. Goyer(story)',
+    'writer': 'Jonathan Nolan(screenplay), Christopher Nolan(screenplay), David S. Goyer(story)',
+    'stars': 'Christian Bale, Tom Hardy, Anne Hathaway',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'Oldboy',
+    'year': '2003',
+    'movieLength': '2h',
+    'description': 'After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.',
+    'director': 'Writers, Garon Tsuchiya(manga), Nobuaki Minegishi(manga), Park Chan-wook(character created by: Oldboy, Vengeance Trilogy)',
+    'writer': 'Garon Tsuchiya(manga), Nobuaki Minegishi(manga), Park Chan-wook(character created by: Oldboy, Vengeance Trilogy)',
+    'stars': 'Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'Bastardos Inglórios',
+    'year': '2009',
+    'movieLength': '2h 33m',
+    'description': "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+    'director': 'Writer, Quentin Tarantino',
+    'writer': 'Quentin Tarantino',
+    'stars': 'Brad Pitt, Diane Kruger, Eli Roth',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Amadeus',
+    'year': '1984',
+    'movieLength': '2h 40m',
+    'description': "The life, success and troubles of Wolfgang Amadeus Mozart, as told by Antonio Salieri, the contemporaneous composer who was deeply jealous of Mozart's talent and claimed to have murdered him.",
+    'director': 'Writers, Peter Shaffer(original stage play), Zdenek Mahler(uncredited)',
+    'writer': 'Peter Shaffer(original stage play), Zdenek Mahler(uncredited)',
+    'stars': 'F. Murray Abraham, Tom Hulce, Elizabeth Berridge',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'Viva: A Vida é uma Festa',
+    'year': '2017',
+    'movieLength': '1h 45m',
+    'description': "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+    'director': 'Writers, Lee Unkrich(original story by), Jason Katz(original story by), Matthew Aldrich(original story by)',
+    'writer': 'Lee Unkrich(original story by), Jason Katz(original story by), Matthew Aldrich(original story by)',
+    'stars': 'Anthony Gonzalez(voice), Gael García Bernal(voice), Benjamin Bratt(voice)',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'Coringa',
+    'year': '2019',
+    'movieLength': '2h 2m',
+    'description': 'A mentally troubled stand-up comedian embarks on a downward spiral that leads to the creation of an iconic villain.',
+    'director': 'Writers, Todd Phillips, Scott Silver, Bob Kane(based on characters created by)',
+    'writer': 'Todd PhillipsScott SilverBob Kane(based on characters created by)',
+    'stars': 'Joaquin Phoenix, Robert De Niro, Zazie Beetz',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'Toy Story',
+    'year': '1995',
+    'movieLength': '1h 21m',
+    'description': "A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy's bedroom.",
+    'director': 'Writers, John Lasseter(original story by), Pete Docter(original story by), Andrew Stanton(original story by)',
+    'writer': 'John Lasseter(original story by), Pete Docter(original story by), Andrew Stanton(original story by)',
+    'stars': 'Tom Hanks(voice), Tim Allen(voice), Don Rickles(voice)',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Coração Valente',
+    'year': '1995',
+    'movieLength': '2h 58m',
+    'description': 'Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.',
+    'director': 'Writer, Randall Wallace',
+    'writer': 'Randall Wallace',
+    'stars': 'Mel Gibson, Sophie Marceau, Patrick Mc, Goohan',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'O Barco: Inferno no Mar',
+    'year': '1981',
+    'movieLength': '2h 29m',
+    'description': 'A German U-boat stalks the frigid waters of the North Atlantic as its young crew experience the sheer terror and claustrophobic life of a submariner in World War II.',
+    'director': 'Writers, Wolfgang Petersen, Lothar G. Buchheim(based on the novel by)',
+    'writer': 'Wolfgang PetersenLothar G. Buchheim(based on the novel by)',
+    'stars': 'Jürgen Prochnow, Herbert Grönemeyer, Klaus Wennemann',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'Vingadores: Ultimato',
+    'year': '2019',
+    'movieLength': '3h 1m',
+    'description': "After the devastating events of Vingadores: Guerra Infinita (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+    'director': 'Writers, Christopher Markus(screenplay by), Stephen Mc, Feely(screenplay by), Stan Lee(based on the Marvel comics by)',
+    'writer': 'Christopher Markus(screenplay by), Stephen McFeely(screenplay by), Stan Lee(based on the Marvel comics by)',
+    'stars': 'Robert Downey Jr., Chris Evans, Mark Ruffalo',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'Princesa Mononoke',
+    'year': '1997',
+    'movieLength': '2h 14m',
+    'description': "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",
+    'director': 'Writers, Hayao Miyazaki(original story), Neil Gaiman(adapted by: English version)',
+    'writer': 'Hayao Miyazaki(original story), Neil Gaiman(adapted by: English version)',
+    'stars': 'Yôji Matsuda(voice), Yuriko Ishida(voice), Yûko Tanaka(voice)',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'Era uma Vez na América',
+    'year': '1984',
+    'movieLength': '3h 49m',
+    'description': 'A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan 35 years later, where he must once again confront the ghosts and regrets of his old life.',
+    'director': 'Writers, Harry Grey(based on novel ", The Hoods" by), Leonardo Benvenuti(screenplay by), Piero De Bernardi(screenplay by)',
+    'writer': 'Harry Grey(based on novel "The Hoods" by), Leonardo Benvenuti(screenplay by), Piero De Bernardi(screenplay by)',
+    'stars': 'Robert De Niro, James Woods, Elizabeth Mc, Govern',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Gênio Indomável',
+    'year': '1997',
+    'movieLength': '2h 6m',
+    'description': 'Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.',
+    'director': 'Writers, Matt Damon, Ben Affleck',
+    'writer': 'Matt DamonBen Affleck',
+    'stars': 'Robin Williams, Matt Damon, Ben Affleck',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Your Name.',
+    'year': '2016',
+    'movieLength': '1h 46m',
+    'description': 'Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?',
+    'director': 'Writers, Makoto Shinkai(based on his novel), Clark Cheng(english script)',
+    'writer': 'Makoto Shinkai(based on his novel), Clark Cheng(english script)',
+    'stars': 'Ryûnosuke Kamiki(voice), Mone Kamishiraishi(voice), Ryô Narita(voice)',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'Réquiem para um Sonho',
+    'year': '2000',
+    'movieLength': '1h 42m',
+    'description': 'The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.',
+    'director': 'Writers, Hubert Selby Jr.(based on the book by), Darren Aronofsky(screenplay)',
+    'writer': 'Hubert Selby Jr.(based on the book by), Darren Aronofsky(screenplay)',
+    'stars': 'Ellen Burstyn, Jared Leto, Jennifer Connelly',
+    'imbdRating': '8.3/10'
+}, {
+    'title': '3 Idiotas',
+    'year': '2009',
+    'movieLength': '2h 50m',
+    'description': 'Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them "idiots".',
+    'director': 'Writers, Rajkumar Hirani(screenplay), Abhijat Joshi(screenplay), Vidhu Vinod Chopra(screenplay associate)',
+    'writer': 'Rajkumar Hirani(screenplay), Abhijat Joshi(screenplay), Vidhu Vinod Chopra(screenplay associate)',
+    'stars': 'Aamir Khan, Madhavan, Mona Singh',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'Cantando na Chuva',
+    'year': '1952',
+    'movieLength': '1h 43m',
+    'description': 'A silent film star falls for a chorus girl just as he and his delusionally jealous screen partner are trying to make the difficult transition to talking pictures in 1920s Hollywood.',
+    'director': 'Writers, Betty Comden(story by), Adolph Green(story by)',
+    'writer': 'Betty Comden(story by), Adolph Green(story by)',
+    'stars': "Gene Kelly, Donald O', Connor, Debbie Reynolds",
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Toy Story 3',
+    'year': '2010',
+    'movieLength': '1h 43m',
+    'description': "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",
+    'director': 'Writers, John Lasseter(story by), Andrew Stanton(story by), Lee Unkrich(story by)',
+    'writer': 'John Lasseter(story by), Andrew Stanton(story by), Lee Unkrich(story by)',
+    'stars': 'Tom Hanks(voice), Tim Allen(voice), Joan Cusack(voice)',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Céu E Inferno',
+    'year': '1963',
+    'movieLength': '2h 23m',
+    'description': "An executive of a Yokohama shoe company becomes a victim of extortion when his chauffeur's son is kidnapped by mistake and held for ransom.",
+    'director': 'Writers, Hideo Oguni(screenplay), Ryûzô Kikushima(screenplay), Eijirô Hisaita(screenplay)',
+    'writer': 'Hideo Oguni(screenplay), Ryûzô Kikushima(screenplay), Eijirô Hisaita(screenplay)',
+    'stars': 'Toshirô Mifune, Yutaka Sada, Tatsuya Nakadai',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'Cafarnaum',
+    'year': '2018',
+    'movieLength': '2h 6m',
+    'description': 'While serving a five-year sentence for a violent crime, a 12-year-old boy sues his parents for neglect.',
+    'director': 'Writers, Nadine Labaki(screenplay), Jihad Hojeily(screenplay), Michelle Keserwany(screenplay)',
+    'writer': 'Nadine Labaki(screenplay), Jihad Hojeily(screenplay), Michelle Keserwany(screenplay)',
+    'stars': 'Zain Al Rafeea, Yordanos Shiferaw, Boluwatife Treasure Bankole',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'Star Wars, Episódio VI: O Retorno do Jedi',
+    'year': '1983',
+    'movieLength': '2h 11m',
+    'description': "After a daring mission to rescue Han Solo from Jabba the Hutt, the Rebels dispatch to Endor to destroy the second Death Star. Meanwhile, Luke struggles to help Darth Vader back from the dark side without falling into the Emperor's trap.",
+    'director': 'Writers, Lawrence Kasdan(screenplay by), George Lucas(screenplay by)',
+    'writer': 'Lawrence Kasdan(screenplay by), George Lucas(screenplay by)',
+    'stars': 'Original title: Star Wars: Episode V, I - Return of the Jedi19831983, Livre, Livre2h 11m',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Brilho Eterno de uma Mente sem Lembranças',
+    'year': '2004',
+    'movieLength': '1h 48m',
+    'description': 'When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories for ever.',
+    'director': 'Writers, Charlie Kaufman(story), Michel Gondry(story), Pierre Bismuth(story)',
+    'writer': 'Charlie Kaufman(story), Michel Gondry(story), Pierre Bismuth(story)',
+    'stars': 'Jim Carrey, Kate Winslet, Tom Wilkinson',
+    'imbdRating': '8.3/10'
+}, {
+    'title': '2001: Uma Odisséia no Espaço',
+    'year': '1968',
+    'movieLength': '2h 29m',
+    'description': 'After uncovering a mysterious artifact buried beneath the Lunar surface, a spacecraft is sent to Jupiter to find its origins - a spacecraft manned by two men and the supercomputer H.A.L. 9000.',
+    'director': 'Writers, Stanley Kubrick(screenplay by), Arthur C. Clarke(screenplay by)',
+    'writer': 'Stanley Kubrick(screenplay by), Arthur C. Clarke(screenplay by)',
+    'stars': 'Keir Dullea, Gary Lockwood, William Sylvester',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Cães de Aluguel',
+    'year': '1992',
+    'movieLength': '1h 39m',
+    'description': 'When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.',
+    'director': 'Writers, Quentin Tarantino(background radio dialogue written by), Roger Avary(background radio dialogue written by)',
+    'writer': 'Quentin Tarantino(background radio dialogue written by), Roger Avary(background radio dialogue written by)',
+    'stars': 'Harvey Keitel, Tim Roth, Michael Madsen',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'A Caça',
+    'year': '2012',
+    'movieLength': '1h 55m',
+    'description': "A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.",
+    'director': 'Writers, Thomas Vinterberg(screenplay), Tobias Lindholm(screenplay)',
+    'writer': 'Thomas Vinterberg(screenplay), Tobias Lindholm(screenplay)',
+    'stars': 'Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkopp',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Vá e Veja',
+    'year': '1985',
+    'movieLength': '2h 22m',
+    'description': 'After finding an old rifle, a young boy joins the Soviet resistance movement against ruthless German forces and experiences the horrors of World War II.',
+    'director': 'Writers, Ales Adamovich(story), Elem Klimov(screenplay)',
+    'writer': 'Ales Adamovich(story), Elem Klimov(screenplay)',
+    'stars': 'Aleksey Kravchenko, Olga Mironova, Liubomiras Laucevicius',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'Cidadão Kane',
+    'year': '1941',
+    'movieLength': '1h 59m',
+    'description': "Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance: 'Rosebud.'",
+    'director': 'Writers, Herman J. Mankiewicz(original screen play), Orson Welles(original screen play), John Houseman(contributing writer)',
+    'writer': 'Herman J. Mankiewicz(original screen play), Orson Welles(original screen play), John Houseman(contributing writer)',
+    'stars': 'Orson Welles, Joseph Cotten, Dorothy Comingore',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Top Gun: Maverick',
+    'year': '2022',
+    'movieLength': '2h 10m',
+    'description': "After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on a mission that demands the ultimate sacrifice from those chosen to fly it.",
+    'director': 'Writers, Jim Cash(based on characters created by), Jack Epps Jr.(based on characters created by), Peter Craig(story by)',
+    'writer': 'Jim Cash(based on characters created by), Jack Epps Jr.(based on characters created by), Peter Craig(story by)',
+    'stars': 'Tom Cruise, Jennifer Connelly, Miles Teller',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Lawrence da Arábia',
+    'year': '1962',
+    'movieLength': '3h 38m',
+    'description': 'The story of T.E. Lawrence, the English officer who successfully united and led the diverse, often warring, Arab tribes during World War I in order to fight the Turks.',
+    'director': 'Writers, Robert Bolt(screenplay by), Michael Wilson(screenplay by)',
+    'writer': 'Robert Bolt(screenplay by), Michael Wilson(screenplay by)',
+    'stars': "Peter O', Toole, Alec Guinness, Anthony Quinn",
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'M, o Vampiro de Dusseldorf',
+    'year': '1931',
+    'movieLength': '1h 57m',
+    'description': 'When the police in a German city are unable to catch a child-murderer, other criminals join in the manhunt.',
+    'director': 'Writers, Thea von Harbou(script), Fritz Lang(script), Egon Jacobsohn(article)',
+    'writer': 'Thea von Harbou(script), Fritz Lang(script), Egon Jacobsohn(article)',
+    'stars': 'Peter Lorre, Ellen Widmann, Inge Landgut',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Intriga Internacional',
+    'year': '1959',
+    'movieLength': '2h 16m',
+    'description': 'A New York City advertising executive goes on the run after being mistaken for a government agent by a group of foreign spies, and falls for a woman whose loyalties he begins to doubt.',
+    'director': 'Writer, Ernest Lehman',
+    'writer': 'Ernest Lehman',
+    'stars': 'Cary Grant, Eva Marie Saint, James Mason',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Um Corpo que Cai',
+    'year': '1958',
+    'movieLength': '2h 8m',
+    'description': 'A former San Francisco police detective juggles wrestling with his personal demons and becoming obsessed with the hauntingly beautiful woman he has been hired to trail, who may be deeply disturbed.',
+    'director': 'Writers, Alec Coppel(screenplay by), Samuel A. Taylor(screenplay by), Pierre Boileau(based on the novel ", D\', Entre Les Morts" by)',
+    'writer': 'Alec Coppel(screenplay by), Samuel A. Taylor(screenplay by), Pierre Boileau(based on the novel "D\'Entre Les Morts" by)',
+    'stars': 'James Stewart, Kim Novak, Barbara Bel Geddes',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'O Fabuloso Destino de Amélie Poulain',
+    'year': '2001',
+    'movieLength': '2h 2m',
+    'description': 'Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.',
+    'director': 'Writers, Guillaume Laurant(scenario), Jean-Pierre Jeunet(scenario)',
+    'writer': 'Guillaume Laurant(scenario), Jean-Pierre Jeunet(scenario)',
+    'stars': 'Audrey Tautou, Mathieu Kassovitz, Rufus',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Se Meu Apartamento Falasse',
+    'year': '1960',
+    'movieLength': '2h 5m',
+    'description': 'A Manhattan insurance clerk tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.',
+    'director': 'Writers, Billy Wilder, I., A., L. Diamond',
+    'writer': 'Billy WilderI.A.L. Diamond',
+    'stars': 'Jack Lemmon, Shirley Mac, Laine, Fred Mac, Murray',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Viver',
+    'year': '1952',
+    'movieLength': '2h 23m',
+    'description': 'A bureaucrat tries to find meaning in his life after he discovers he has terminal cancer.',
+    'director': 'Writers, Akira Kurosawa, Shinobu Hashimoto, Hideo Oguni',
+    'writer': 'Akira KurosawaShinobu HashimotoHideo Oguni',
+    'stars': "Takashi Shimura, Nobuo Kaneko, Shin'ichi Himori",
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Laranja Mecânica',
+    'year': '1971',
+    'movieLength': '2h 16m',
+    'description': "In the future, a sadistic gang leader is imprisoned and volunteers for a conduct-aversion experiment, but it doesn't go as planned.",
+    'director': 'Writers, Stanley Kubrick(screenplay), Anthony Burgess(novel)',
+    'writer': 'Stanley Kubrick(screenplay), Anthony Burgess(novel)',
+    'stars': 'Malcolm Mc, Dowell, Patrick Magee, Michael Bates',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Pacto de Sangue',
+    'year': '1944',
+    'movieLength': '1h 47m',
+    'description': 'A Los Angeles insurance representative lets an alluring housewife seduce him into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, an insurance investigator.',
+    'director': 'Writers, Billy Wilder(screenplay), Raymond Chandler(screenplay), James M. Cain(from the novel by)',
+    'writer': 'Billy Wilder(screenplay), Raymond Chandler(screenplay), James M. Cain(from the novel by)',
+    'stars': 'Fred Mac, Murray, Barbara Stanwyck, Edward G. Robinson',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Nascido para Matar',
+    'year': '1987',
+    'movieLength': '1h 56m',
+    'description': 'A pragmatic U.S. Marine observes the dehumanizing effects the Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.',
+    'director': 'Writers, Stanley Kubrick(screenplay by), Michael Herr(screenplay by), Gustav Hasford(screenplay by)',
+    'writer': 'Stanley Kubrick(screenplay by), Michael Herr(screenplay by), Gustav Hasford(screenplay by)',
+    'stars': "Matthew Modine, R. Lee Ermey, Vincent D', Onofrio",
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Scarface',
+    'year': '1983',
+    'movieLength': '2h 50m',
+    'description': 'In 1980 Miami, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.',
+    'director': 'Writers, Oliver Stone(screenplay by), Howard Hawks(1932 screenplay), Ben Hecht(1932 screenplay)',
+    'writer': 'Oliver Stone(screenplay by), Howard Hawks(1932 screenplay), Ben Hecht(1932 screenplay)',
+    'stars': 'Al Pacino, Michelle Pfeiffer, Steven Bauer',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Hamilton',
+    'year': '2020',
+    'movieLength': '2h 40m',
+    'description': "The real life of one of America's foremost founding fathers and first Secretary of the Treasury, Alexander Hamilton. Captured live on Broadway from the Richard Rodgers Theater with the original Broadway cast.",
+    'director': 'Writers, Lin-Manuel Miranda(book), Ron Chernow(inspired by the book Alexander Hamilton by)',
+    'writer': 'Lin-Manuel Miranda(book), Ron Chernow(inspired by the book Alexander Hamilton by)',
+    'stars': 'Lin-Manuel Miranda, Phillipa Soo, Leslie Odom Jr.',
+    'imbdRating': '8.4/10'
+}, {
+    'title': 'Incêndios',
+    'year': '2010',
+    'movieLength': '2h 11m',
+    'description': "Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes.",
+    'director': 'Writers, Denis Villeneuve(scenario), Wajdi Mouawad(play), Valérie Beaugrand-Champagne(collaboration)',
+    'writer': 'Denis Villeneuve(scenario), Wajdi Mouawad(play), Valérie Beaugrand-Champagne(collaboration)',
+    'stars': 'Lubna Azabal, Mélissa Désormeaux-Poulin, Maxim Gaudette',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'O Sol é para Todos',
+    'year': '1962',
+    'movieLength': '2h 9m',
+    'description': 'Atticus Finch, a widowed lawyer in Depression-era Alabama, defends a black man against an undeserved rape charge, and his children against prejudice.',
+    'director': 'Writers, Harper Lee(based on her novel ", To Kill a Mockingbird"), Horton Foote(screenplay by)',
+    'writer': 'Harper Lee(based on her novel "To Kill a Mockingbird"), Horton Foote(screenplay by)',
+    'stars': 'Gregory Peck, John Megna, Frank Overton',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Golpe de Mestre',
+    'year': '1973',
+    'movieLength': '2h 9m',
+    'description': 'Two grifters team up to pull off the ultimate con.',
+    'director': 'Writer, David S. Ward',
+    'writer': 'David S. Ward',
+    'stars': 'Paul Newman, Robert Redford, Robert Shaw',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Fogo Contra Fogo',
+    'year': '1995',
+    'movieLength': '2h 50m',
+    'description': 'A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a clue at their latest heist.',
+    'director': 'Writer, Michael Mann',
+    'writer': 'Michael Mann',
+    'stars': 'Al Pacino, Robert De Niro, Val Kilmer',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Up: Altas Aventuras',
+    'year': '2009',
+    'movieLength': '1h 36m',
+    'description': '78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.',
+    'director': 'Writers, Pete Docter(story by), Bob Peterson(story by), Tom Mc, Carthy(story by)',
+    'writer': 'Pete Docter(story by), Bob Peterson(story by), Tom McCarthy(story by)',
+    'stars': 'Edward Asner(voice), Jordan Nagai(voice), John Ratzenberger(voice)',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'A Separação',
+    'year': '2011',
+    'movieLength': '2h 3m',
+    'description': "A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",
+    'director': 'Writer, Asghar Farhadi',
+    'writer': 'Asghar Farhadi',
+    'stars': 'Payman Maadi, Leila Hatami, Sareh Bayat',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Taxi Driver: Motorista de Táxi',
+    'year': '1976',
+    'movieLength': '1h 54m',
+    'description': 'A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.',
+    'director': 'Writer, Paul Schrader',
+    'writer': 'Paul Schrader',
+    'stars': 'Robert De Niro, Jodie Foster, Cybill Shepherd',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Metrópolis',
+    'year': '1927',
+    'movieLength': '2h 33m',
+    'description': "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working-class prophet who predicts the coming of a savior to mediate their differences.",
+    'director': 'Writers, Thea von Harbou(screenplay), Fritz Lang(screenplay)',
+    'writer': 'Thea von Harbou(screenplay), Fritz Lang(screenplay)',
+    'stars': 'Brigitte Helm, Alfred Abel, Gustav Fröhlich',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Los Angeles: Cidade Proibida',
+    'year': '1997',
+    'movieLength': '2h 18m',
+    'description': 'As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.',
+    'director': 'Writers, James Ellroy(based on the novel by), Brian Helgeland(screenplay by), Curtis Hanson(screenplay by)',
+    'writer': 'James Ellroy(based on the novel by), Brian Helgeland(screenplay by), Curtis Hanson(screenplay by)',
+    'stars': 'Kevin Spacey, Russell Crowe, Guy Pearce',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Duro de Matar',
+    'year': '1988',
+    'movieLength': '2h 12m',
+    'description': 'A New York City police officer tries to save his estranged wife and several others taken hostage by terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.',
+    'director': 'Writers, Roderick Thorp(based on the novel by), Jeb Stuart(screenplay by), Steven E. de Souza(screenplay by)',
+    'writer': 'Roderick Thorp(based on the novel by), Jeb Stuart(screenplay by), Steven E. de Souza(screenplay by)',
+    'stars': 'Bruce Willis, Alan Rickman, Bonnie Bedelia',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Snatch: Porcos e Diamantes',
+    'year': '2000',
+    'movieLength': '1h 44m',
+    'description': 'Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.',
+    'director': 'Writer, Guy Ritchie',
+    'writer': 'Guy Ritchie',
+    'stars': 'Jason Statham, Brad Pitt, Stephen Graham',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Indiana Jones e a Última Cruzada',
+    'year': '1989',
+    'movieLength': '2h 7m',
+    'description': 'In 1938, after his father Professor Henry Jones, Sr. goes missing while pursuing the Holy Grail, Professor Henry "Indiana" Jones, Jr. finds himself up against Adolf Hitler\'s Nazis again to stop them from obtaining its powers.',
+    'director': 'Writers, Jeffrey Boam(screenplay), George Lucas(story), Menno Meyjes(story)',
+    'writer': 'Jeffrey Boam(screenplay), George Lucas(story), Menno Meyjes(story)',
+    'stars': 'Harrison Ford, Sean Connery, Alison Doody',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Ladrões de Bicicletas',
+    'year': '1948',
+    'movieLength': '1h 29m',
+    'description': "In post-war Italy, a working-class man's bicycle is stolen, endangering his efforts to find work. He and his son set out to find it.",
+    'director': 'Writers, Cesare Zavattini(story), Luigi Bartolini(novel), Oreste Biancoli(screenplay)',
+    'writer': 'Cesare Zavattini(story), Luigi Bartolini(novel), Oreste Biancoli(screenplay)',
+    'stars': 'Lamberto Maggiorani, Enzo Staiola, Lianella Carell',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Como Estrelas na Terra',
+    'year': '2007',
+    'movieLength': '2h 45m',
+    'description': 'An eight-year-old boy is thought to be a lazy trouble-maker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.',
+    'director': 'Writer, Amole Gupte(dialogue & screenplay)',
+    'writer': 'Amole Gupte(dialogue & screenplay)',
+    'stars': 'Darsheel Safary, Aamir Khan, Tisca Chopra',
+    'imbdRating': '8.3/10'
+}, {
+    'title': '1917',
+    'year': '2019',
+    'movieLength': '1h 59m',
+    'description': 'April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.',
+    'director': 'Writers, Sam Mendes, Krysty Wilson-Cairns',
+    'writer': 'Sam MendesKrysty Wilson-Cairns',
+    'stars': 'Dean-Charles Chapman, George Mac, Kay, Daniel Mays',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'A Queda! As Últimas Horas de Hitler',
+    'year': '2004',
+    'movieLength': '2h 36m',
+    'description': "Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII.",
+    'director': 'Writers, Bernd Eichinger, Joachim Fest(based on the book ", Der Untergang: Hitler und das Ende des Dritten Reiches" by), Traudl Junge(based on the book ", Bis zur letzten Stunde" by)',
+    'writer': 'Bernd EichingerJoachim Fest(based on the book "Der Untergang: Hitler und das Ende des Dritten Reiches" by), Traudl Junge(based on the book "Bis zur letzten Stunde" by)',
+    'stars': 'Bruno Ganz, Alexandra Maria Lara, Ulrich Matthes',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Por uns Dólares a Mais',
+    'year': '1965',
+    'movieLength': '2h 12m',
+    'description': 'Two bounty hunters with the same intentions team up to track down an escaped Mexican outlaw.',
+    'director': 'Writers, Sergio Leone(scenario), Fulvio Morsella(scenario), Luciano Vincenzoni(screenplay)',
+    'writer': 'Sergio Leone(scenario), Fulvio Morsella(scenario), Luciano Vincenzoni(screenplay)',
+    'stars': 'Clint Eastwood, Lee Van Cleef, Gian Maria Volontè',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Dangal',
+    'year': '2016',
+    'movieLength': '2h 41m',
+    'description': 'Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.',
+    'director': 'Writers, Piyush Gupta, Shreyas Jain, Nikhil Mehrotra',
+    'writer': 'Piyush GuptaShreyas JainNikhil Mehrotra',
+    'stars': 'Aamir Khan, Sakshi Tanwar, Fatima Sana Shaikh',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Batman Begins',
+    'year': '2005',
+    'movieLength': '2h 20m',
+    'description': 'After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from corruption.',
+    'director': 'Writers, Bob Kane(characters), David S. Goyer(story), Christopher Nolan(screenplay)',
+    'writer': 'Bob Kane(characters), David S. Goyer(story), Christopher Nolan(screenplay)',
+    'stars': 'Christian Bale, Michael Caine, Ken Watanabe',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'O Garoto',
+    'year': '1921',
+    'movieLength': '1h 8m',
+    'description': 'The Tramp cares for an abandoned child, but events put their relationship in jeopardy.',
+    'director': 'Writer, Charles Chaplin',
+    'writer': 'Charles Chaplin',
+    'stars': 'Charles Chaplin, Edna Purviance, Jackie Coogan',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Quanto Mais Quente Melhor',
+    'year': '1959',
+    'movieLength': '2h 1m',
+    'description': 'After two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.',
+    'director': 'Writers, Billy Wilder(screenplay), I., A., L. Diamond(screenplay), Robert Thoeren(suggested by a story by)',
+    'writer': 'Billy Wilder(screenplay), I.A.L. Diamond(screenplay), Robert Thoeren(suggested by a story by)',
+    'stars': 'Marilyn Monroe, Tony Curtis, Jack Lemmon',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Meu Pai',
+    'year': '2020',
+    'movieLength': '1h 37m',
+    'description': 'A man refuses all assistance from his daughter as he ages. As he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality.',
+    'director': 'Writers, Christopher Hampton(screenplay by), Florian Zeller(screenplay by)',
+    'writer': 'Christopher Hampton(screenplay by), Florian Zeller(screenplay by)',
+    'stars': 'Anthony Hopkins, Olivia Colman, Mark Gatiss',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'A Malvada',
+    'year': '1950',
+    'movieLength': '2h 18m',
+    'description': 'A seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.',
+    'director': 'Writers, Joseph L. Mankiewicz(written for the screen by), Mary Orr(story ", The Wisdom of Eve")',
+    'writer': 'Joseph L. Mankiewicz(written for the screen by), Mary Orr(story "The Wisdom of Eve")',
+    'stars': 'Bette Davis, Anne Baxter, George Sanders',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Green Book: O Guia',
+    'year': '2018',
+    'movieLength': '2h 10m',
+    'description': 'A working-class Italian-American bouncer becomes the driver for an African-American classical pianist on a tour of venues through the 1960s American South.',
+    'director': 'Writers, Nick Vallelonga, Brian Hayes Currie, Peter Farrelly',
+    'writer': 'Nick VallelongaBrian Hayes CurriePeter Farrelly',
+    'stars': 'Viggo Mortensen, Mahershala Ali, Linda Cardellini',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'O Lobo de Wall Street',
+    'year': '2013',
+    'movieLength': '3h',
+    'description': 'Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.',
+    'director': 'Writers, Terence Winter(screenplay), Jordan Belfort(book)',
+    'writer': 'Terence Winter(screenplay), Jordan Belfort(book)',
+    'stars': 'Leonardo Di, Caprio, Jonah Hill, Margot Robbie',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Julgamento em Nuremberg',
+    'year': '1961',
+    'movieLength': '2h 59m',
+    'description': 'In 1948, an American court in occupied Germany tries four Nazis judged for war crimes.',
+    'director': 'Writers, Abby Mann(based on his original story by), Montgomery Clift(uncredited)',
+    'writer': 'Abby Mann(based on his original story by), Montgomery Clift(uncredited)',
+    'stars': 'Spencer Tracy, Burt Lancaster, Richard Widmark',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Cassino',
+    'year': '1995',
+    'movieLength': '2h 58m',
+    'description': 'A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive compete against each other over a gambling empire, and over a fast-living and fast-loving socialite.',
+    'director': 'Writers, Nicholas Pileggi(book), Martin Scorsese(screenplay)',
+    'writer': 'Nicholas Pileggi(book), Martin Scorsese(screenplay)',
+    'stars': 'Robert De Niro, Sharon Stone, Joe Pesci',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Ran',
+    'year': '1985',
+    'movieLength': '2h 42m',
+    'description': 'In Medieval Japan, an elderly warlord retires, handing over his empire to his three sons. However, he vastly underestimates how the new-found power will corrupt them and cause them to turn on each other...and him.',
+    'director': 'Writers, Akira Kurosawa(screenplay), Hideo Oguni(screenplay), Masato Ide(screenplay)',
+    'writer': 'Akira Kurosawa(screenplay), Hideo Oguni(screenplay), Masato Ide(screenplay)',
+    'stars': 'Tatsuya Nakadai, Akira Terao, Jinpachi Nezu',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'O Labirinto do Fauno',
+    'year': '2006',
+    'movieLength': '1h 58m',
+    'description': 'In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world.',
+    'director': 'Writer, Guillermo del Toro',
+    'writer': 'Guillermo del Toro',
+    'stars': 'Ivana Baquero, Ariadna Gil, Sergi López',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Os Imperdoáveis',
+    'year': '1992',
+    'movieLength': '2h 10m',
+    'description': 'Retired Old West gunslinger William Munny reluctantly takes on one last job, with the help of his old partner Ned Logan and a young man, The "Schofield Kid."',
+    'director': 'Writer, David Webb Peoples',
+    'writer': 'David Webb Peoples',
+    'stars': 'Clint Eastwood, Gene Hackman, Morgan Freeman',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'O Show de Truman: O Show da Vida',
+    'year': '1998',
+    'movieLength': '1h 43m',
+    'description': 'An insurance salesman discovers his whole life is actually a reality TV show.',
+    'director': 'Writer, Andrew Niccol',
+    'writer': 'Andrew Niccol',
+    'stars': 'Jim Carrey, Ed Harris, Laura Linney',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Sangue Negro',
+    'year': '2007',
+    'movieLength': '2h 38m',
+    'description': 'A story of family, religion, hatred, oil and madness, focusing on a turn-of-the-century prospector in the early days of the business.',
+    'director': 'Writers, Paul Thomas Anderson(written for the screen by), Upton Sinclair(novel ", Oil!")',
+    'writer': 'Paul Thomas Anderson(written for the screen by), Upton Sinclair(novel "Oil!")',
+    'stars': 'Daniel Day-Lewis, Paul Dano, Ciarán Hinds',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'O Sexto Sentido',
+    'year': '1999',
+    'movieLength': '1h 47m',
+    'description': 'A frightened, withdrawn Philadelphia boy who communicates with spirits seeks the help of a disheartened child psychologist.',
+    'director': 'Writer, M. Night Shyamalan',
+    'writer': 'M. Night Shyamalan',
+    'stars': 'Bruce Willis, Haley Joel Osment, Toni Collette',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Uma Mente Brilhante',
+    'year': '2001',
+    'movieLength': '2h 15m',
+    'description': 'After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.',
+    'director': 'Writers, Akiva Goldsman, Sylvia Nasar(book)',
+    'writer': 'Akiva GoldsmanSylvia Nasar(book)',
+    'stars': 'Russell Crowe, Ed Harris, Jennifer Connelly',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Ilha do Medo',
+    'year': '2010',
+    'movieLength': '2h 18m',
+    'description': 'In 1954, a U.S. Marshal investigates the disappearance of a murderer who escaped from a hospital for the criminally insane.',
+    'director': 'Writers, Laeta Kalogridis(screenplay), Dennis Lehane(novel)',
+    'writer': 'Laeta Kalogridis(screenplay), Dennis Lehane(novel)',
+    'stars': 'Leonardo Di, Caprio, Emily Mortimer, Mark Ruffalo',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Yojimbo, o Guarda-Costas',
+    'year': '1961',
+    'movieLength': '1h 50m',
+    'description': 'A crafty ronin comes to a town divided by two criminal gangs and decides to play them against each other to free the town.',
+    'director': 'Writers, Akira Kurosawa(story), Ryûzô Kikushima(screenplay)',
+    'writer': 'Akira Kurosawa(story), Ryûzô Kikushima(screenplay)',
+    'stars': 'Toshirô Mifune, Eijirô Tôno, Tatsuya Nakadai',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Jurassic Park',
+    'year': '1993',
+    'movieLength': '2h 7m',
+    'description': "A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+    'director': 'Writers, Michael Crichton(novel), David Koepp(screenplay)',
+    'writer': 'Michael Crichton(novel), David Koepp(screenplay)',
+    'stars': 'Sam Neill, Laura Dern, Jeff Goldblum',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'O Tesouro da Sierra Madre',
+    'year': '1948',
+    'movieLength': '2h 6m',
+    'description': 'Two down-on-their-luck Americans searching for work in 1920s Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.',
+    'director': 'Writers, John Huston(screenplay), B. Traven(based on the novel by)',
+    'writer': 'John Huston(screenplay), B. Traven(based on the novel by)',
+    'stars': 'Humphrey Bogart, Walter Huston, Tim Holt',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Monty Python em Busca do Cálice Sagrado',
+    'year': '1975',
+    'movieLength': '1h 31m',
+    'description': 'King Arthur and his Knights of the Round Table embark on a surreal, low-budget search for the Holy Grail, encountering many, very silly obstacles.',
+    'director': 'Writers, Graham Chapman, John Cleese, Eric Idle',
+    'writer': 'Graham ChapmanJohn CleeseEric Idle',
+    'stars': 'Graham Chapman, John Cleese, Eric Idle',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Homem-Aranha: Sem Volta para Casa',
+    'year': '2021',
+    'movieLength': '2h 28m',
+    'description': "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
+    'director': 'Writers, Chris Mc, Kenna, Erik Sommers, Stan Lee(based on the Marvel comic book by)',
+    'writer': 'Chris McKennaErik SommersStan Lee(based on the Marvel comic book by)',
+    'stars': 'Tom Holland, Zendaya, Benedict Cumberbatch',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Fugindo do Inferno',
+    'year': '1963',
+    'movieLength': '2h 52m',
+    'description': 'Allied prisoners of war plan for several hundred of their number to escape from a German camp during World War II.',
+    'director': 'Writers, Paul Brickhill(based on the book by), James Clavell(screen play by), W., R. Burnett(screen play by)',
+    'writer': 'Paul Brickhill(based on the book by), James Clavell(screen play by), W.R. Burnett(screen play by)',
+    'stars': 'Steve Mc, Queen, James Garner, Richard Attenborough',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Rashomon',
+    'year': '1950',
+    'movieLength': '1h 28m',
+    'description': "The rape of a bride and the murder of her samurai husband are recalled from the perspectives of a bandit, the bride, the samurai's ghost and a woodcutter.",
+    'director': 'Writers, Ryûnosuke Akutagawa(stories Rashomon and In a Grove), Akira Kurosawa(screenplay), Shinobu Hashimoto(screenplay)',
+    'writer': 'Ryûnosuke Akutagawa(stories Rashomon and In a Grove), Akira Kurosawa(screenplay), Shinobu Hashimoto(screenplay)',
+    'stars': 'Toshirô Mifune, Machiko Kyô, Masayuki Mori',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Onde os Fracos Não Têm Vez',
+    'year': '2007',
+    'movieLength': '2h 2m',
+    'description': 'Violence and mayhem ensue after a hunter stumbles upon a drug deal gone wrong and more than two million dollars in cash near the Rio Grande.',
+    'director': 'Writers, Joel Coen(screenplay), Ethan Coen(screenplay), Cormac Mc, Carthy(novel)',
+    'writer': 'Joel Coen(screenplay), Ethan Coen(screenplay), Cormac McCarthy(novel)',
+    'stars': 'Tommy Lee Jones, Javier Bardem, Josh Brolin',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Kill Bill: Volume 1',
+    'year': '2003',
+    'movieLength': '1h 51m',
+    'description': 'After awakening from a four-year coma, a former assassin wreaks vengeance on the team of assassins who betrayed her.',
+    'director': 'Writers, Quentin Tarantino(based on the character ", The Bride" created by), Uma Thurman(based on the character ", The Bride" created by)',
+    'writer': 'Quentin Tarantino(based on the character "The Bride" created by), Uma Thurman(based on the character "The Bride" created by)',
+    'stars': 'Uma Thurman, David Carradine, Daryl Hannah',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'O Enigma de Outro Mundo',
+    'year': '1982',
+    'movieLength': '1h 49m',
+    'description': 'A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.',
+    'director': 'Writers, Bill Lancaster(screenplay), John W. Campbell Jr.(story)',
+    'writer': 'Bill Lancaster(screenplay), John W. Campbell Jr.(story)',
+    'stars': 'Kurt Russell, Wilford Brimley, Keith David',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Procurando Nemo',
+    'year': '2003',
+    'movieLength': '1h 40m',
+    'description': 'After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.',
+    'director': 'Writers, Andrew Stanton(original story by), Bob Peterson(screenplay by), David Reynolds(screenplay by)',
+    'writer': 'Andrew Stanton(original story by), Bob Peterson(screenplay by), David Reynolds(screenplay by)',
+    'stars': 'Albert Brooks(voice), Ellen De, Generes(voice), Alexander Gould(voice)',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'O Homem Elefante',
+    'year': '1980',
+    'movieLength': '2h 4m',
+    'description': 'A Victorian surgeon rescues a heavily disfigured man who is mistreated while scraping a living as a side-show freak. Behind his monstrous façade, there is revealed a person of kindness, intelligence and sophistication.',
+    'director': 'Writers, Christopher De Vore(screenplay), Eric Bergren(screenplay), David Lynch(screenplay)',
+    'writer': 'Christopher De Vore(screenplay), Eric Bergren(screenplay), David Lynch(screenplay)',
+    'stars': 'Anthony Hopkins, John Hurt, Anne Bancroft',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Chinatown',
+    'year': '1974',
+    'movieLength': '2h 10m',
+    'description': 'A private detective hired to expose an adulterer in 1930s Los Angeles finds himself caught up in a web of deceit, corruption, and murder.',
+    'director': 'Writers, Robert Towne, Roman Polanski(uncredited)',
+    'writer': 'Robert TowneRoman Polanski(uncredited)',
+    'stars': 'Jack Nicholson, Faye Dunaway, John Huston',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Touro Indomável',
+    'year': '1980',
+    'movieLength': '2h 9m',
+    'description': 'The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.',
+    'director': 'Writers, Jake La, Motta(based on the book by), Joseph Carter(with), Peter Savage(with)',
+    'writer': 'Jake LaMotta(based on the book by), Joseph Carter(with), Peter Savage(with)',
+    'stars': 'Robert De Niro, Cathy Moriarty, Joe Pesci',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'V de Vingança',
+    'year': '2005',
+    'movieLength': '2h 12m',
+    'description': 'In a future British dystopian society, a shadowy freedom fighter, known only by the alias of "V", plots to overthrow the tyrannical government - with the help of a young woman.',
+    'director': 'Writers, Lilly Wachowski(screenplay), Lana Wachowski(screenplay), David Lloyd(graphic novel art)',
+    'writer': 'Lilly Wachowski(screenplay), Lana Wachowski(screenplay), David Lloyd(graphic novel art)',
+    'stars': 'Hugo Weaving, Natalie Portman, Rupert Graves',
+    'imbdRating': '8.2/10'
+}, {
+    'title': '...E o Vento Levou',
+    'year': '1939',
+    'movieLength': '3h 58m',
+    'description': 'The manipulative daughter of a Georgia plantation owner conducts a turbulent romance with a roguish profiteer during the American Civil War and Reconstruction periods.',
+    'director': 'Writers, Margaret Mitchell(story of the Old South ", Gone with the Wind"), Sidney Howard(screen play by), Oliver H., P. Garrett(contributing writer)',
+    'writer': 'Margaret Mitchell(story of the Old South "Gone with the Wind"), Sidney Howard(screen play by), Oliver H.P. Garrett(contributing writer)',
+    'stars': 'Clark Gable, Vivien Leigh, Thomas Mitchell',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Jogos, Trapaças e Dois Canos Fumegantes',
+    'year': '1998',
+    'movieLength': '1h 47m',
+    'description': 'Eddy persuades his three pals to pool money for a vital poker game against a powerful local mobster, Hatchet Harry. Eddy loses, after which Harry gives him a week to pay back 500,000 pounds.',
+    'director': 'Writer, Guy Ritchie',
+    'writer': 'Guy Ritchie',
+    'stars': 'Jason Flemyng, Dexter Fletcher, Nick Moran',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Divertida Mente',
+    'year': '2015',
+    'movieLength': '1h 35m',
+    'description': 'After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.',
+    'director': 'Writers, Pete Docter(original story by), Ronnie Del Carmen(original story by), Meg Le, Fauve(screenplay by)',
+    'writer': 'Pete Docter(original story by), Ronnie Del Carmen(original story by), Meg LeFauve(screenplay by)',
+    'stars': 'Amy Poehler(voice), Bill Hader(voice), Lewis Black(voice)',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Disque M para Matar',
+    'year': '1954',
+    'movieLength': '1h 45m',
+    'description': 'A former tennis star arranges the murder of his adulterous wife.',
+    'director': 'Writer, Frederick Knott(screen play by)',
+    'writer': 'Frederick Knott(screen play by)',
+    'stars': 'Ray Milland, Grace Kelly, Robert Cummings',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'O Segredo dos Seus Olhos',
+    'year': '2009',
+    'movieLength': '2h 9m',
+    'description': 'A retired legal counselor writes a novel hoping to find closure for one of his past unresolved homicide cases and for his unreciprocated love with his superior - both of which still haunt him decades later.',
+    'director': 'Writers, Eduardo Sacheri(screenplay), Juan José Campanella(screenplay)',
+    'writer': 'Eduardo Sacheri(screenplay), Juan José Campanella(screenplay)',
+    'stars': 'Ricardo Darín, Soledad Villamil, Pablo Rago',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'O Castelo Animado',
+    'year': '2004',
+    'movieLength': '1h 59m',
+    'description': 'When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle.',
+    'director': 'Writers, Hayao Miyazaki(screenplay), Diana Wynne Jones(novel ", Howl\'s Moving Castle")',
+    'writer': 'Hayao Miyazaki(screenplay), Diana Wynne Jones(novel "Howl\'s Moving Castle")',
+    'stars': 'Chieko Baishô(voice), Takuya Kimura(voice), Tatsuya Gashûin(voice)',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Três Anúncios para um Crime',
+    'year': '2017',
+    'movieLength': '1h 55m',
+    'description': "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",
+    'director': 'Writer, Martin Mc, Donagh',
+    'writer': 'Martin McDonagh',
+    'stars': 'Frances Mc, Dormand, Woody Harrelson, Sam Rockwell',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'A Ponte do Rio Kwai',
+    'year': '1957',
+    'movieLength': '2h 41m',
+    'description': 'British POWs are forced to build a railway bridge across the river Kwai for their Japanese captors in occupied Burma, not knowing that the allied forces are planning a daring commando raid through the jungle to destroy it.',
+    'director': 'Writers, Pierre Boulle(novel ", Le pont de la rivière Kwaï"), Carl Foreman(screenplay), Michael Wilson(screenplay)',
+    'writer': 'Pierre Boulle(novel "Le pont de la rivière Kwaï"), Carl Foreman(screenplay), Michael Wilson(screenplay)',
+    'stars': 'William Holden, Alec Guinness, Jack Hawkins',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Trainspotting: Sem Limites',
+    'year': '1996',
+    'movieLength': '1h 33m',
+    'description': 'Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.',
+    'director': 'Writers, Irvine Welsh(based on the novel by), John Hodge(screenplay)',
+    'writer': 'Irvine Welsh(based on the novel by), John Hodge(screenplay)',
+    'stars': 'Ewan Mc, Gregor, Ewen Bremner, Jonny Lee Miller',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Os Suspeitos',
+    'year': '2013',
+    'movieLength': '2h 33m',
+    'description': "When Keller Dover's daughter and her friend go missing, he takes matters into his own hands as the police pursue multiple leads and the pressure mounts.",
+    'director': 'Writer, Aaron Guzikowski',
+    'writer': 'Aaron Guzikowski',
+    'stars': 'Hugh Jackman, Jake Gyllenhaal, Viola Davis',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Guerreiro',
+    'year': '2011',
+    'movieLength': '2h 20m',
+    'description': "The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother.",
+    'director': "Writers, Gavin O', Connor(screenplay), Anthony Tambakis(screenplay), Cliff Dorfman(screenplay)",
+    'writer': "Gavin O'Connor(screenplay), Anthony Tambakis(screenplay), Cliff Dorfman(screenplay)",
+    'stars': 'Tom Hardy, Nick Nolte, Joel Edgerton',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Fargo: Uma Comédia de Erros',
+    'year': '1996',
+    'movieLength': '1h 38m',
+    'description': "Minnesota car salesman Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
+    'director': 'Writers, Ethan Coen, Joel Coen',
+    'writer': 'Ethan CoenJoel Coen',
+    'stars': 'William H. Macy, Frances Mc, Dormand, Steve Buscemi',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Gran Torino',
+    'year': '2008',
+    'movieLength': '1h 56m',
+    'description': "Disgruntled Korean War veteran Walt Kowalski sets out to reform his neighbor, Thao Lor, a Hmong teenager who tried to steal Kowalski's prized possession: a 1972 Gran Torino.",
+    'director': 'Writers, Nick Schenk(screenplay), Dave Johannson(story)',
+    'writer': 'Nick Schenk(screenplay), Dave Johannson(story)',
+    'stars': 'Clint Eastwood, Bee Vang, Christopher Carley',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Meu Amigo Totoro',
+    'year': '1988',
+    'movieLength': '1h 26m',
+    'description': 'When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.',
+    'director': 'Writer, Hayao Miyazaki',
+    'writer': 'Hayao Miyazaki',
+    'stars': 'Hitoshi Takagi(voice), Noriko Hidaka(voice), Chika Sakamoto(voice)',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Prenda-me se for Capaz',
+    'year': '2002',
+    'movieLength': '2h 21m',
+    'description': 'Barely 21 yet, Frank is a skilled forger who has passed as a doctor, lawyer and pilot. FBI agent Carl becomes obsessed with tracking down the con man, who only revels in the pursuit.',
+    'director': 'Writers, Jeff Nathanson(screenplay), Frank Abagnale Jr.(book ", Catch Me If You Can: The Amazing True Story of the Youngest and Most Daring Con Man in the History of Fun and Profit"), Stan Redding(book ", Catch Me If You Can: The Amazing True Story of the Youngest and Most Daring Con Man in the History of Fun and Profit")',
+    'writer': 'Jeff Nathanson(screenplay), Frank Abagnale Jr.(book "Catch Me If You Can: The Amazing True Story of the Youngest and Most Daring Con Man in the History of Fun and Profit"), Stan Redding(book "Catch Me If You Can: The Amazing True Story of the Youngest and Most Daring Con Man in the History of Fun and Profit")',
+    'stars': 'Leonardo Di, Caprio, Tom Hanks, Christopher Walken',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Menina de Ouro',
+    'year': '2004',
+    'movieLength': '2h 12m',
+    'description': 'A determined woman works with a hardened boxing trainer to become a professional.',
+    'director': 'Writers, Paul Haggis(screenplay), F., X. Toole(stories from Rope Burns)',
+    'writer': 'Paul Haggis(screenplay), F.X. Toole(stories from Rope Burns)',
+    'stars': 'Hilary Swank, Clint Eastwood, Morgan Freeman',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Filhos do Paraíso',
+    'year': '1997',
+    'movieLength': '1h 29m',
+    'description': 'After a boy loses his sister\'s pair of shoes, he goes on a series of adventures in order to find them. When he can\'t, he tries a new way to "win" a new pair.',
+    'director': 'Writer, Majid Majidi',
+    'writer': 'Majid Majidi',
+    'stars': 'Mohammad Amir Naji, Amir Farrokh Hashemian, Bahare Seddiqi',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Blade Runner: O Caçador de Androides',
+    'year': '1982',
+    'movieLength': '1h 57m',
+    'description': 'A blade runner must pursue and terminate four replicants who stole a ship in space and have returned to Earth to find their creator.',
+    'director': 'Writers, Hampton Fancher(screenplay), David Webb Peoples(screenplay), Philip K. Dick(novel ", Do Androids Dream of Electric Sheep?")',
+    'writer': 'Hampton Fancher(screenplay), David Webb Peoples(screenplay), Philip K. Dick(novel "Do Androids Dream of Electric Sheep?")',
+    'stars': 'Harrison Ford, Rutger Hauer, Sean Young',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Em Busca do Ouro',
+    'year': '1925',
+    'movieLength': '1h 35m',
+    'description': 'A prospector goes to the Klondike during the 1890s gold rush in hopes of making his fortune, and is smitten with a girl he sees in a dance hall.',
+    'director': 'Writer, Charles Chaplin',
+    'writer': 'Charles Chaplin',
+    'stars': 'Charles Chaplin, Mack Swain, Tom Murray',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Antes do Amanhecer',
+    'year': '1995',
+    'movieLength': '1h 41m',
+    'description': 'A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.',
+    'director': 'Writers, Richard Linklater, Kim Krizan',
+    'writer': 'Richard LinklaterKim Krizan',
+    'stars': 'Ethan Hawke, Julie Delpy, Andrea Eckert',
+    'imbdRating': '8.1/10'
+}, {
+    'title': '12 Anos de Escravidão',
+    'year': '2013',
+    'movieLength': '2h 14m',
+    'description': 'In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.',
+    'director': 'Writers, John Ridley(screenplay by), Solomon Northup(based on ", Twelve Years a Slave" by)',
+    'writer': 'John Ridley(screenplay by), Solomon Northup(based on "Twelve Years a Slave" by)',
+    'stars': 'Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Sindicato de Ladrões',
+    'year': '1954',
+    'movieLength': '1h 48m',
+    'description': "An ex-prize fighter turned New Jersey longshoreman struggles to stand up to his corrupt union bosses, including his older brother, as he starts to connect with the grieving sister of one of the syndicate's victims.",
+    'director': 'Writers, Budd Schulberg(screenplay), Malcolm Johnson(suggested by articles by), Robert Siodmak(uncredited)',
+    'writer': 'Budd Schulberg(screenplay), Malcolm Johnson(suggested by articles by), Robert Siodmak(uncredited)',
+    'stars': 'Marlon Brando, Karl Malden, Lee J. Cobb',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Harry Potter e as Relíquias da Morte - Parte 2',
+    'year': '2011',
+    'movieLength': '2h 10m',
+    'description': "Harry, Ron, and Hermione search for Voldemort's remaining Horcruxes in their effort to destroy the Dark Lord as the final battle rages on at Hogwarts.",
+    'director': 'Writers, Steve Kloves(screenplay), J., K. Rowling(novel ", Harry Potter and the Deathly Hallows")',
+    'writer': 'Steve Kloves(screenplay), J.K. Rowling(novel "Harry Potter and the Deathly Hallows")',
+    'stars': 'Daniel Radcliffe, Emma Watson, Rupert Grint',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Klaus',
+    'year': '2019',
+    'movieLength': '1h 36m',
+    'description': "A simple act of kindness always sparks another, even in a frozen, faraway place. When Smeerensburg's new postman, Jesper, befriends toymaker Klaus, their gifts melt an age-old feud and deliver a sleigh full of holiday traditions.",
+    'director': 'Writers, Sergio Pablos(original story by), Jim Mahoney(screenplay by), Zach Lewis(screenplay by)',
+    'writer': 'Sergio Pablos(original story by), Jim Mahoney(screenplay by), Zach Lewis(screenplay by)',
+    'stars': 'Jason Schwartzman(voice), J., K. Simmons(voice), Rashida Jones(voice)',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Ben-Hur',
+    'year': '1959',
+    'movieLength': '3h 32m',
+    'description': 'After a Jewish prince is betrayed and sent into slavery by a Roman friend in 1st-century Jerusalem, he regains his freedom and comes back for revenge.',
+    'director': 'Writers, Lew Wallace(, A Tale of Christ), Karl Tunberg(screen play by), Gore Vidal(contributing writer)',
+    'writer': 'Lew Wallace(A Tale of Christ), Karl Tunberg(screen play by), Gore Vidal(contributing writer)',
+    'stars': 'Charlton Heston, Jack Hawkins, Stephen Boyd',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Garota Exemplar',
+    'year': '2014',
+    'movieLength': '2h 29m',
+    'description': "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+    'director': 'Writer, Gillian Flynn(screenplay)',
+    'writer': 'Gillian Flynn(screenplay)',
+    'stars': 'Ben Affleck, Rosamund Pike, Neil Patrick Harris',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Morangos Silvestres',
+    'year': '1957',
+    'movieLength': '1h 31m',
+    'description': 'After living a life marked by coldness, an aging professor is forced to confront the emptiness of his existence.',
+    'director': 'Writer, Ingmar Bergman',
+    'writer': 'Ingmar Bergman',
+    'stars': 'Victor Sjöström, Bibi Andersson, Ingrid Thulin',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'O Grande Hotel Budapeste',
+    'year': '2014',
+    'movieLength': '1h 39m',
+    'description': "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.",
+    'director': 'Writers, Stefan Zweig(inspired by the writings of), Wes Anderson(screenplay), Hugo Guinness(story)',
+    'writer': 'Stefan Zweig(inspired by the writings of), Wes Anderson(screenplay), Hugo Guinness(story)',
+    'stars': 'Ralph Fiennes, F. Murray Abraham, Mathieu Amalric',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'A General',
+    'year': '1926',
+    'movieLength': '1h 7m',
+    'description': 'After being rejected by the Confederate military, not realizing it was due to his crucial civilian role, an engineer must single-handedly recapture his beloved locomotive after it is seized by Union spies and return it through enemy lines.',
+    'director': 'Writers, Buster Keaton, Clyde Bruckman, Al Boasberg(adapted by)',
+    'writer': 'Buster KeatonClyde BruckmanAl Boasberg(adapted by)',
+    'stars': 'Buster Keaton, Marion Mack, Glen Cavender',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'O 3º Homem',
+    'year': '1949',
+    'movieLength': '1h 44m',
+    'description': 'Pulp novelist Holly Martins travels to shadowy, postwar Vienna, only to find himself investigating the mysterious death of an old friend, Harry Lime.',
+    'director': 'Writers, Graham Greene(by), Orson Welles(uncredited), Alexander Korda(story)',
+    'writer': 'Graham Greene(by), Orson Welles(uncredited), Alexander Korda(story)',
+    'stars': 'Orson Welles, Joseph Cotten, Alida Valli',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Em Nome do Pai',
+    'year': '1993',
+    'movieLength': '2h 13m',
+    'description': "A man's coerced confession to an I.R.A. bombing he did not commit results in the imprisonment of his father as well. An English lawyer fights to free them.",
+    'director': 'Writers, Gerry Conlon(autobiographical book ", Proved Innocent"), Terry George(screenplay), Jim Sheridan(screenplay)',
+    'writer': 'Gerry Conlon(autobiographical book "Proved Innocent"), Terry George(screenplay), Jim Sheridan(screenplay)',
+    'stars': 'Daniel Day-Lewis, Pete Postlethwaite, Alison Crosbie',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'O Franco Atirador',
+    'year': '1978',
+    'movieLength': '3h 3m',
+    'description': 'An in-depth examination of the ways in which the Vietnam War impacts and disrupts the lives of several friends in a small steel mill town in Pennsylvania.',
+    'director': 'Writers, Michael Cimino(story), Deric Washburn(story), Louis Garfinkle(story)',
+    'writer': 'Michael Cimino(story), Deric Washburn(story), Louis Garfinkle(story)',
+    'stars': 'Robert De Niro, Christopher Walken, John Cazale',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Barry Lyndon',
+    'year': '1975',
+    'movieLength': '3h 5m',
+    'description': "An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.",
+    'director': 'Writers, Stanley Kubrick(written for the screen by), William Makepeace Thackeray(novel ", The Memoirs of Barry Lyndon, Esq.")',
+    'writer': 'Stanley Kubrick(written for the screen by), William Makepeace Thackeray(novel "The Memoirs of Barry Lyndon, Esq.")',
+    'stars': "Ryan O', Neal, Marisa Berenson, Patrick Magee",
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'O Salário do Medo',
+    'year': '1953',
+    'movieLength': '2h 11m',
+    'description': 'In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.',
+    'director': 'Writers, Georges Arnaud(from the novel by), Henri-Georges Clouzot(adaptation and dialogue), Jérôme Géronimi(adaptation and dialogue)',
+    'writer': 'Georges Arnaud(from the novel by), Henri-Georges Clouzot(adaptation and dialogue), Jérôme Géronimi(adaptation and dialogue)',
+    'stars': 'Yves Montand, Charles Vanel, Peter van Eyck',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Até o Último Homem',
+    'year': '2016',
+    'movieLength': '2h 19m',
+    'description': 'World War II American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first man in American history to receive the Medal of Honor without firing a shot.',
+    'director': 'Writers, Robert Schenkkan(screenplay by), Andrew Knight(screenplay by)',
+    'writer': 'Robert Schenkkan(screenplay by), Andrew Knight(screenplay by)',
+    'stars': 'Andrew Garfield, Sam Worthington, Luke Bracey',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Memórias de um Assassino',
+    'year': '2003',
+    'movieLength': '2h 11m',
+    'description': 'In a small Korean province in 1986, two detectives struggle with the case of multiple young women being found raped and murdered by an unknown culprit.',
+    'director': 'Writers, Bong Joon Ho, Kwang-rim Kim(play), Sung-bo Shim',
+    'writer': 'Bong Joon HoKwang-rim Kim(play), Sung-bo Shim',
+    'stars': 'Song Kang-ho, Kim Sang-kyung, Roe-ha Kim',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'A Mulher Faz o Homem',
+    'year': '1939',
+    'movieLength': '2h 9m',
+    'description': 'A naive youth leader is appointed to fill a vacancy in the U.S. Senate. His idealistic plans promptly collide with corruption at home and subterfuge from his hero in Washington, but he tries to forge ahead despite attacks on his character.',
+    'director': 'Writers, Sidney Buchman(screen play), Lewis R. Foster(story), Myles Connolly(contributor to screenplay construction and dialogue)',
+    'writer': 'Sidney Buchman(screen play), Lewis R. Foster(story), Myles Connolly(contributor to screenplay construction and dialogue)',
+    'stars': 'James Stewart, Jean Arthur, Claude Rains',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Bancando o Águia',
+    'year': '1924',
+    'movieLength': '45m',
+    'description': "A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch.",
+    'director': 'Writers, Jean C. Havez(story), Joseph A. Mitchell(story), Clyde Bruckman(story)',
+    'writer': 'Jean C. Havez(story), Joseph A. Mitchell(story), Clyde Bruckman(story)',
+    'stars': 'Buster Keaton, Kathryn Mc, Guire, Joe Keaton',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Relatos Selvagens',
+    'year': '2014',
+    'movieLength': '2h 2m',
+    'description': 'Six short stories that explore the extremities of human behavior involving people in distress.',
+    'director': 'Writers, Germán Servidio(collaborating writer), Damián Szifron',
+    'writer': 'Germán Servidio(collaborating writer), Damián Szifron',
+    'stars': 'Darío Grandinetti, María Marull, Mónica Villa',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Mad Max: Estrada da Fúria',
+    'year': '2015',
+    'movieLength': '2h',
+    'description': 'In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max.',
+    'director': 'Writers, George Miller, Brendan Mc, Carthy, Nick Lathouris',
+    'writer': 'George MillerBrendan McCarthyNick Lathouris',
+    'stars': 'Tom Hardy, Charlize Theron, Nicholas Hoult',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'O Sétimo Selo',
+    'year': '1957',
+    'movieLength': '1h 36m',
+    'description': 'A knight returning to Sweden after the Crusades seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.',
+    'director': 'Writer, Ingmar Bergman(play ", Trämålning")',
+    'writer': 'Ingmar Bergman(play "Trämålning")',
+    'stars': 'Max von Sydow, Gunnar Björnstrand, Bengt Ekerot',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Mary e Max: Uma Amizade Diferente',
+    'year': '2009',
+    'movieLength': '1h 32m',
+    'description': 'A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York.',
+    'director': 'Writer, Adam Elliot',
+    'writer': 'Adam Elliot',
+    'stars': 'Toni Collette(voice), Philip Seymour Hoffman(voice), Eric Bana(voice)',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'O Quarto de Jack',
+    'year': '2015',
+    'movieLength': '1h 58m',
+    'description': 'Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.',
+    'director': 'Writer, Emma Donoghue(screenplay by)',
+    'writer': 'Emma Donoghue(screenplay by)',
+    'stars': 'Brie Larson, Jacob Tremblay, Sean Bridgers',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Como Treinar o Seu Dragão',
+    'year': '2010',
+    'movieLength': '1h 38m',
+    'description': 'A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.',
+    'director': 'Writers, Will Davies(screenplay by), Dean De, Blois(screenplay by), Chris Sanders(screenplay by)',
+    'writer': 'Will Davies(screenplay by), Dean DeBlois(screenplay by), Chris Sanders(screenplay by)',
+    'stars': 'Jay Baruchel(voice), Gerard Butler(voice), Christopher Mintz-Plasse(voice)',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Monstros S.A.',
+    'year': '2001',
+    'movieLength': '1h 32m',
+    'description': 'In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think.',
+    'director': 'Writers, Pete Docter(original story by), Jill Culton(original story by), Jeff Pidgeon(original story by)',
+    'writer': 'Pete Docter(original story by), Jill Culton(original story by), Jeff Pidgeon(original story by)',
+    'stars': 'Billy Crystal(voice), John Goodman(voice), Mary Gibbs(voice)',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Tubarão',
+    'year': '1975',
+    'movieLength': '2h 4m',
+    'description': "When a killer shark unleashes chaos on a beach community off Cape Cod, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+    'director': 'Writers, Peter Benchley(screenplay), Carl Gottlieb(screenplay)',
+    'writer': 'Peter Benchley(screenplay), Carl Gottlieb(screenplay)',
+    'stars': 'Roy Scheider, Robert Shaw, Richard Dreyfuss',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'O Grande Lebowski',
+    'year': '1998',
+    'movieLength': '1h 57m',
+    'description': 'Ultimate L.A. slacker Jeff "The Dude" Lebowski, mistaken for a millionaire of the same name, seeks restitution for a rug ruined by debt collectors, enlisting his bowling buddies for help while trying to find the millionaire\'s missing wife.',
+    'director': 'Writers, Ethan Coen, Joel Coen',
+    'writer': 'Ethan CoenJoel Coen',
+    'stars': 'Jeff Bridges, John Goodman, Julianne Moore',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Sociedade dos Poetas Mortos',
+    'year': '1989',
+    'movieLength': '2h 8m',
+    'description': 'Maverick teacher John Keating uses poetry to embolden his boarding school students to new heights of self-expression.',
+    'director': 'Writer, Tom Schulman',
+    'writer': 'Tom Schulman',
+    'stars': 'Robin Williams, Robert Sean Leonard, Ethan Hawke',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Era uma Vez em Tóquio',
+    'year': '1953',
+    'movieLength': '2h 16m',
+    'description': 'An old couple visit their children and grandchildren in the city, but receive little attention.',
+    'director': 'Writers, Kôgo Noda(scenario), Yasujirô Ozu(scenario)',
+    'writer': 'Kôgo Noda(scenario), Yasujirô Ozu(scenario)',
+    'stars': 'Chishû Ryû, Chieko Higashiyama, Sô Yamamura',
+    'imbdRating': '8.2/10'
+}, {
+    'title': "O Martírio de Joana D'Arc",
+    'year': '1928',
+    'movieLength': '1h 50m',
+    'description': "In 1431, Jeanne d'Arc is placed on trial on charges of heresy. The ecclesiastical jurists attempt to force Jeanne to recant her claims of holy visions.",
+    'director': 'Writers, Joseph Delteil, Carl Theodor Dreyer',
+    'writer': 'Joseph DelteilCarl Theodor Dreyer',
+    'stars': 'Maria Falconetti, Eugene Silvain, André Berley',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Hotel Ruanda',
+    'year': '2004',
+    'movieLength': '2h 1m',
+    'description': 'Paul Rusesabagina, a hotel manager, houses over a thousand Tutsi refugees during their struggle against the Hutu militia in Rwanda, Africa.',
+    'director': 'Writers, Keir Pearson, Terry George',
+    'writer': 'Keir PearsonTerry George',
+    'stars': 'Don Cheadle, Sophie Okonedo, Joaquin Phoenix',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Ford vs Ferrari',
+    'year': '2019',
+    'movieLength': '2h 32m',
+    'description': 'American car designer Carroll Shelby and driver Ken Miles battle corporate interference and the laws of physics to build a revolutionary race car for Ford in order to defeat Ferrari at the 24 Hours of Le Mans in 1966.',
+    'director': 'Writers, Jez Butterworth, John-Henry Butterworth, Jason Keller',
+    'writer': 'Jez ButterworthJohn-Henry ButterworthJason Keller',
+    'stars': 'Matt Damon, Christian Bale, Jon Bernthal',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Rocky: Um Lutador',
+    'year': '1976',
+    'movieLength': '2h',
+    'description': 'A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.',
+    'director': 'Writer, Sylvester Stallone',
+    'writer': 'Sylvester Stallone',
+    'stars': 'Sylvester Stallone, Talia Shire, Burt Young',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Platoon',
+    'year': '1986',
+    'movieLength': '2h',
+    'description': 'Chris Taylor, a neophyte recruit in Vietnam, finds himself caught in a battle of wills between two sergeants, one good and the other evil. A shrewd examination of the brutality of war and the duality of man in conflict.',
+    'director': 'Writer, Oliver Stone',
+    'writer': 'Oliver Stone',
+    'stars': 'Charlie Sheen, Tom Berenger, Willem Dafoe',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Spotlight: Segredos Revelados',
+    'year': '2015',
+    'movieLength': '2h 9m',
+    'description': 'The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core.',
+    'director': 'Writers, Josh Singer, Tom Mc, Carthy',
+    'writer': 'Josh SingerTom McCarthy',
+    'stars': 'Mark Ruffalo, Michael Keaton, Rachel Mc, Adams',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Ratatouille',
+    'year': '2007',
+    'movieLength': '1h 51m',
+    'description': 'A rat who can cook makes an unusual alliance with a young kitchen worker at a famous Paris restaurant.',
+    'director': 'Writers, Brad Bird(screenwriter), Jan Pinkava(original story by), Jim Capobianco(original story by)',
+    'writer': 'Brad Bird(screenwriter), Jan Pinkava(original story by), Jim Capobianco(original story by)',
+    'stars': 'Brad Garrett(voice), Lou Romano(voice), Patton Oswalt(voice)',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'O Exterminador do Futuro',
+    'year': '1984',
+    'movieLength': '1h 47m',
+    'description': "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.",
+    'director': 'Writers, James Cameron, Gale Anne Hurd, William Wisher(additional dialogue)',
+    'writer': 'James CameronGale Anne HurdWilliam Wisher(additional dialogue)',
+    'stars': 'Arnold Schwarzenegger, Linda Hamilton, Michael Biehn',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Conta Comigo',
+    'year': '1986',
+    'movieLength': '1h 29m',
+    'description': 'After the death of one of his friends, a writer recounts a childhood journey with his friends to find the body of a missing boy.',
+    'director': 'Writers, Stephen King(novella ", The Body"), Raynold Gideon(screenplay), Bruce A. Evans(screenplay)',
+    'writer': 'Stephen King(novella "The Body"), Raynold Gideon(screenplay), Bruce A. Evans(screenplay)',
+    'stars': 'Wil Wheaton, River Phoenix, Corey Feldman',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Logan',
+    'year': '2017',
+    'movieLength': '2h 17m',
+    'description': 'In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.',
+    'director': 'Writers, James Mangold(story by), Scott Frank(screenplay by), Michael Green(screenplay by)',
+    'writer': 'James Mangold(story by), Scott Frank(screenplay by), Michael Green(screenplay by)',
+    'stars': 'Hugh Jackman, Patrick Stewart, Dafne Keen',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Rush: No Limite da Emoção',
+    'year': '2013',
+    'movieLength': '2h 3m',
+    'description': 'The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.',
+    'director': 'Writer, Peter Morgan',
+    'writer': 'Peter Morgan',
+    'stars': 'Daniel Brühl, Chris Hemsworth, Olivia Wilde',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Rede de Intrigas',
+    'year': '1976',
+    'movieLength': '2h 1m',
+    'description': "A television network cynically exploits a deranged former anchor's ravings and revelations about the news media for its own profit, but finds that his message may be difficult to control.",
+    'director': 'Writer, Paddy Chayefsky(by)',
+    'writer': 'Paddy Chayefsky(by)',
+    'stars': 'Faye Dunaway, William Holden, Peter Finch',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'A Canção da Estrada',
+    'year': '1955',
+    'movieLength': '2h 5m',
+    'description': 'Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.',
+    'director': 'Writers, Bibhutibhushan Bandyopadhyay(novel), Satyajit Ray(screenplay)',
+    'writer': 'Bibhutibhushan Bandyopadhyay(novel), Satyajit Ray(screenplay)',
+    'stars': 'Kanu Bannerjee, Karuna Bannerjee, Subir Banerjee',
+    'imbdRating': '8.3/10'
+}, {
+    'title': 'Na Natureza Selvagem',
+    'year': '2007',
+    'movieLength': '2h 28m',
+    'description': 'After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters th... Read all',
+    'director': 'Writers, Sean Penn(screenplay), Jon Krakauer(book)',
+    'writer': 'Sean Penn(screenplay), Jon Krakauer(book)',
+    'stars': 'Emile Hirsch, Vince Vaughn, Catherine Keener',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Antes do Pôr-do-Sol',
+    'year': '2004',
+    'movieLength': '1h 20m',
+    'description': "Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour.",
+    'director': 'Writers, Richard Linklater(screenplay), Julie Delpy(screenplay), Ethan Hawke(screenplay)',
+    'writer': 'Richard Linklater(screenplay), Julie Delpy(screenplay), Ethan Hawke(screenplay)',
+    'stars': 'Ethan Hawke, Julie Delpy, Vernon Dobtcheff',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'O Mágico de Oz',
+    'year': '1939',
+    'movieLength': '1h 42m',
+    'description': "Young Dorothy Gale and her dog Toto are swept away by a tornado from their Kansas farm to the magical Land of Oz, and embark on a quest with three new friends to see the Wizard, who can return her to her home and fulfill the others' wishes.",
+    'director': 'Directors, Victor Fleming, George Cukor(uncredited), Mervyn Le, Roy(uncredited)',
+    'writer': 'Noel Langley(screenplay), Florence Ryerson(screenplay), Edgar Allan Woolf(screenplay)',
+    'stars': 'Judy Garland, Frank Morgan, Ray Bolger',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Feitiço do Tempo',
+    'year': '1993',
+    'movieLength': '1h 41m',
+    'description': 'A narcissistic, self-centered weatherman finds himself in a time loop on Groundhog Day, and the day keeps repeating until he gets it right.',
+    'director': 'Writers, Danny Rubin(story by), Harold Ramis(screenplay by)',
+    'writer': 'Danny Rubin(story by), Harold Ramis(screenplay by)',
+    'stars': 'Bill Murray, Andie Mac, Dowell, Chris Elliott',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Os Melhores Anos de Nossa Vida',
+    'year': '1946',
+    'movieLength': '2h 50m',
+    'description': 'Three World War II veterans, two of them traumatized or disabled, return home to the American midwest to discover that they and their families have been irreparably changed.',
+    'director': 'Writers, Robert E. Sherwood(screen play), Mac, Kinlay Kantor(from a novel by)',
+    'writer': 'Robert E. Sherwood(screen play), MacKinlay Kantor(from a novel by)',
+    'stars': 'Myrna Loy, Dana Andrews, Fredric March',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'O Exorcista',
+    'year': '1973',
+    'movieLength': '2h 2m',
+    'description': 'When a girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter.',
+    'director': 'Writer, William Peter Blatty(written for the screen by)',
+    'writer': 'William Peter Blatty(written for the screen by)',
+    'stars': 'Ellen Burstyn, Max von Sydow, Linda Blair',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Os Incríveis',
+    'year': '2004',
+    'movieLength': '1h 55m',
+    'description': 'While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.',
+    'director': 'Writer, Brad Bird',
+    'writer': 'Brad Bird',
+    'stars': 'Craig T. Nelson(voice), Samuel L. Jackson(voice), Holly Hunter(voice)',
+    'imbdRating': '8.0/10'
+}, {
+    'title': 'Ser ou Não Ser',
+    'year': '1942',
+    'movieLength': '1h 39m',
+    'description': "During the Nazi occupation of Poland, an acting troupe becomes embroiled in a Polish soldier's efforts to track down a German spy.",
+    'director': 'Writers, Melchior Lengyel(original story), Edwin Justus Mayer(screenplay), Ernst Lubitsch(original story)',
+    'writer': 'Melchior Lengyel(original story), Edwin Justus Mayer(screenplay), Ernst Lubitsch(original story)',
+    'stars': 'Carole Lombard, Jack Benny, Robert Stack',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'A Batalha de Argel',
+    'year': '1966',
+    'movieLength': '2h 1m',
+    'description': 'In the 1950s, fear and violence escalate as the people of Algiers fight for independence from the French government.',
+    'director': 'Writers, Franco Solinas(story), Gillo Pontecorvo(story)',
+    'writer': 'Franco Solinas(story), Gillo Pontecorvo(story)',
+    'stars': 'Brahim Hadjadj, Jean Martin, Yacef Saadi',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'O Ódio',
+    'year': '1995',
+    'movieLength': '1h 38m',
+    'description': '24 hours in the lives of three young men in the French suburbs the day after a violent riot.',
+    'director': 'Writer, Mathieu Kassovitz',
+    'writer': 'Mathieu Kassovitz',
+    'stars': 'Vincent Cassel, Hubert Koundé, Saïd Taghmaoui',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Sempre ao Seu Lado',
+    'year': '2009',
+    'movieLength': '1h 33m',
+    'description': 'A college professor bonds with an abandoned dog he takes into his home.',
+    'director': 'Writers, Stephen P. Lindsey(screenplay), Kaneto Shindô(motion picture ", Hachiko monogatari")',
+    'writer': 'Stephen P. Lindsey(screenplay), Kaneto Shindô(motion picture "Hachiko monogatari")',
+    'stars': 'Richard Gere, Joan Allen, Cary-Hiroyuki Tagawa',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Piratas do Caribe: A Maldição do Pérola Negra',
+    'year': '2003',
+    'movieLength': '2h 23m',
+    'description': 'Blacksmith Will Turner teams up with eccentric pirate "Captain" Jack Sparrow to save his love, the governor\'s daughter, from Jack\'s former pirate allies, who are now undead.',
+    'director': 'Writers, Ted Elliott(screen story), Terry Rossio(screen story), Stuart Beattie(screen story)',
+    'writer': 'Ted Elliott(screen story), Terry Rossio(screen story), Stuart Beattie(screen story)',
+    'stars': 'Johnny Depp, Geoffrey Rush, Orlando Bloom',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Meu Pai e Meu Filho',
+    'year': '2005',
+    'movieLength': '1h 52m',
+    'description': 'The family of a left-wing journalist is torn apart after the military coup of Turkey in 1980.',
+    'director': 'WriterÇagan Irmak',
+    'writer': 'Çagan Irmak',
+    'stars': 'Çetin Tekindor, Fikret Kuskan, Hümeyra',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'As Vinhas da Ira',
+    'year': '1940',
+    'movieLength': '2h 9m',
+    'description': 'An Oklahoma family, driven off their farm by the poverty and hopelessness of the Dust Bowl, joins the westward migration to California, suffering the misfortunes of the homeless in the Great Depression.',
+    'director': 'Writers, Nunnally Johnson(screen play), John Steinbeck(based on the novel by)',
+    'writer': 'Nunnally Johnson(screen play), John Steinbeck(based on the novel by)',
+    'stars': 'Henry Fonda, Jane Darwell, John Carradine',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Jai Bhim',
+    'year': '2021',
+    'movieLength': '2h 44m',
+    'description': 'When a tribal man is arrested for a case of alleged theft, his wife turns to a human-rights lawyer to help bring justice.',
+    'director': 'Writers, T., J. Gnanavel, Rajendra Sapre(hindi dialogue)',
+    'writer': 'T.J. GnanavelRajendra Sapre(hindi dialogue)',
+    'stars': 'Suriya, Lijo Mol Jose, Manikandan K.',
+    'imbdRating': '8.8/10'
+}, {
+    'title': 'Amores Brutos',
+    'year': '2000',
+    'movieLength': '2h 34m',
+    'description': "A horrific car accident connects three stories, each involving characters dealing with loss, regret, and life's harsh realities, all in the name of love.",
+    'director': 'Writer, Guillermo Arriaga',
+    'writer': 'Guillermo Arriaga',
+    'stars': 'Emilio Echevarría, Gael García Bernal, Goya Toledo',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Rebecca, a Mulher Inesquecível',
+    'year': '1940',
+    'movieLength': '2h 10m',
+    'description': "A self-conscious woman juggles adjusting to her new role as an aristocrat's wife and avoiding being intimidated by his first wife's spectral presence.",
+    'director': 'Writers, Daphne Du Maurier(celebrated novel), Robert E. Sherwood(screen play), Joan Harrison(screen play)',
+    'writer': 'Daphne Du Maurier(celebrated novel), Robert E. Sherwood(screen play), Joan Harrison(screen play)',
+    'stars': 'Laurence Olivier, Joan Fontaine, George Sanders',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Rebeldia Indomável',
+    'year': '1967',
+    'movieLength': '2h 7m',
+    'description': 'A laid back Southern man is sentenced to two years in a rural prison, but refuses to conform.',
+    'director': 'Writers, Donn Pearce(screenplay), Frank Pierson(screenplay), Hal Dresner(uncredited)',
+    'writer': 'Donn Pearce(screenplay), Frank Pierson(screenplay), Hal Dresner(uncredited)',
+    'stars': 'Paul Newman, George Kennedy, Strother Martin',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'A Criada',
+    'year': '2016',
+    'movieLength': '2h 25m',
+    'description': 'A woman is hired as a handmaiden to a Japanese heiress, but secretly she is involved in a plot to defraud her.',
+    'director': 'Writers, Sarah Waters(inspired by the novel ", Fingersmith" by), Chung Seo-kyung(screenplay), Park Chan-wook(screenplay)',
+    'writer': 'Sarah Waters(inspired by the novel "Fingersmith" by), Chung Seo-kyung(screenplay), Park Chan-wook(screenplay)',
+    'stars': 'Kim Min-hee, Ha Jung-woo, Cho Jin-woong',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Os Incompreendidos',
+    'year': '1959',
+    'movieLength': '1h 39m',
+    'description': 'A young boy, left without attention, delves into a life of petty crime.',
+    'director': 'Writers, François Truffaut(scenario), Marcel Moussy(adaptation)',
+    'writer': 'François Truffaut(scenario), Marcel Moussy(adaptation)',
+    'stars': 'Jean-Pierre Léaud, Albert Rémy, Claire Maurier',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'A Noviça Rebelde',
+    'year': '1965',
+    'movieLength': '2h 52m',
+    'description': 'A young novice is sent by her convent in 1930s Austria to become a governess to the seven children of a widowed naval officer.',
+    'director': 'Writers, Georg Hurdalek(with the partial use of ideas by), Howard Lindsay(from the stage musical book by), Russel Crouse(from the stage musical book by)',
+    'writer': 'Georg Hurdalek(with the partial use of ideas by), Howard Lindsay(from the stage musical book by), Russel Crouse(from the stage musical book by)',
+    'stars': 'Julie Andrews, Christopher Plummer, Eleanor Parker',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Aconteceu Naquela Noite',
+    'year': '1934',
+    'movieLength': '1h 45m',
+    'description': 'A renegade reporter trailing a young runaway heiress for a big story joins her on a bus heading from Florida to New York, and they end up stuck with each other when the bus leaves them behind at one of the stops.',
+    'director': 'Writers, Robert Riskin(screen play), Samuel Hopkins Adams(based on the short story by)',
+    'writer': 'Robert Riskin(screen play), Samuel Hopkins Adams(based on the short story by)',
+    'stars': 'Clark Gable, Claudette Colbert, Walter Connolly',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Quando Duas Mulheres Pecam',
+    'year': '1966',
+    'movieLength': '1h 25m',
+    'description': 'A nurse is put in charge of a mute actress and finds that their personae are melding together.',
+    'director': 'Writer, Ingmar Bergman(story and screenplay)',
+    'writer': 'Ingmar Bergman(story and screenplay)',
+    'stars': 'Bibi Andersson, Liv Ullmann, Margaretha Krook',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'A Vida de Brian',
+    'year': '1979',
+    'movieLength': '1h 34m',
+    'description': 'Born on the original Christmas in the stable next door to Jesus Christ, Brian of Nazareth spends his life being mistaken for a messiah.',
+    'director': 'Writers, Graham Chapman, John Cleese, Terry Gilliam',
+    'writer': 'Graham ChapmanJohn CleeseTerry Gilliam',
+    'stars': 'Graham Chapman, John Cleese, Michael Palin',
+    'imbdRating': '8.0/10'
+}, {
+    'title': 'O Gigante de Ferro',
+    'year': '1999',
+    'movieLength': '1h 26m',
+    'description': 'A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.',
+    'director': 'Writers, Tim Mc, Canlies(screenplay by), Brad Bird(screen story by), Ted Hughes(based on the book ", The Iron Man" by)',
+    'writer': 'Tim McCanlies(screenplay by), Brad Bird(screen story by), Ted Hughes(based on the book "The Iron Man" by)',
+    'stars': 'Eli Marienthal(voice), Harry Connick Jr.(voice), Jennifer Aniston(voice)',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Dersu Uzala',
+    'year': '1975',
+    'movieLength': '2h 22m',
+    'description': 'The Russian army sends an explorer on an expedition to the snowy Siberian wilderness where he makes friends with a seasoned local hunter.',
+    'director': 'Writers, Akira Kurosawa(screenplay), Yuriy Nagibin(screenplay), Vladimir Arsenev(novel ", Dersu, okhotnik")',
+    'writer': 'Akira Kurosawa(screenplay), Yuriy Nagibin(screenplay), Vladimir Arsenev(novel "Dersu, okhotnik")',
+    'stars': 'Maksim Munzuk, Yuriy Solomin, Mikhail Bychkov',
+    'imbdRating': '8.2/10'
+}, {
+    'title': 'Histórias Cruzadas',
+    'year': '2011',
+    'movieLength': '2h 26m',
+    'description': "An aspiring author during the civil rights movement of the 1960s decides to write a book detailing the African American maids' point of view on the white families for which they work, and the hardships they go through on a daily basis.",
+    'director': 'Writers, Tate Taylor(screenplay), Kathryn Stockett(novel)',
+    'writer': 'Tate Taylor(screenplay), Kathryn Stockett(novel)',
+    'stars': 'Viola Davis, Emma Stone, Octavia Spencer',
+    'imbdRating': '8.1/10'
+}, {
+    'title': 'Aladdin',
+    'year': '1992',
+    'movieLength': '1h 30m',
+    'description': 'A kindhearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.',
+    'director': 'Writers, Ron Clements(screenplay by), John Musker(screenplay by), Ted Elliott(screenplay by)',
+    'writer': 'Ron Clements(screenplay by), John Musker(screenplay by), Ted Elliott(screenplay by)',
+    'stars': 'Scott Weinger(voice), Robin Williams(voice), Linda Larkin(voice)',
+    'imbdRating': '8.0/10'
+}, {
+    'title': 'Gandhi',
+    'year': '1982',
+    'movieLength': '3h 11m',
+    'description': 'The life of the lawyer who became the famed leader of the Indian revolts against the British rule through his philosophy of nonviolent protest.',
+    'director': 'Writer, John Briley',
+    'writer': 'John Briley',
+    'stars': 'Ben Kingsley, John Gielgud, Rohini Hattangadi',
+    'imbdRating': '8.0/10'
+}, {
+    'title': 'Dança com Lobos',
+    'year': '1990',
+    'movieLength': '3h 1m',
+    'description': 'Lieutenant John Dunbar, assigned to a remote western Civil War outpost, befriends wolves and Native Americans, making him an intolerable aberration in the military.',
+    'director': 'Writer, Michael Blake(screenplay by)',
+    'writer': 'Michael Blake(screenplay by)',
+    'stars': 'Kevin Costner, Mary Mc, Donnell, Graham Greene',
+    'imbdRating': '8.0/10'
+}]

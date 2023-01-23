@@ -5,4 +5,6 @@ https://www.imdb.com/chart/top/?ref_=nv_mv_250
 
 ## Para rodar o crawler, basta executar:
 
-    py .\crawler.py
+    docker build -t crawler-image .
+
+    docker run -v ${PWD}/dados/:/usr/src/app/dados crawler-image

@@ -4,6 +4,7 @@ import re
 import logging
 import pandas as pd
 import sqlite3
+from datetime import datetime
 
 base_url = 'https://www.imdb.com'
 
@@ -38,6 +39,7 @@ def get_links(movie_list):
 
 def get_movie_details(link_list):
     detais_list = []
+    link_list = link_list[0:10]
     for link in link_list:
         movie_details = bs(requests.get(link, headers=base_headers).text, "html.parser").find('section',class_='ipc-page-section')
 
@@ -58,7 +60,7 @@ def get_movie_details(link_list):
         if director == None:
             director = movie_details.find('a', text=re.compile('Director')).parent.text
         else:
-            director = director.parent.nextSibling.find('ul').text
+            director = director.parent.find(role="presentation").text
         for director_pattern in  re.findall(r'[^\s-][A-Z]', director):
             director = director.replace(director_pattern, ', '.join(director_pattern))
 
@@ -99,8 +101,10 @@ def get_movie_details(link_list):
         'imbdRating'
     ])
 
+    # Data para geração dos arquivos
+    date = datetime.now().strftime("%Y-%m-%d--%H-%M-%S")
     # Formatação dos dados em csv
-    movies_df.to_csv('imdb-top-250.csv', index=False)
+    movies_df.to_csv(f'./dados/imdb-top-250_{date}.csv', index=False, sep=';')
     log.info(f'\nDados salvos em csv\n')
 
     # Formatação dos dados em json
@@ -108,7 +112,7 @@ def get_movie_details(link_list):
     log.info(f'\nDados salvos em json\n')
 
     # Inserindo dados em um banco SQLite
-    database = './db.sqlite'
+    database = f'./dados/db_{date}.sqlite'
     connection = sqlite3.connect(database)
     movies_df.to_sql(name='imdb-top-250', con=connection)
     log.info(f'\nDados salvos em SQLite\n')

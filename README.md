@@ -17,6 +17,8 @@ O crawler pode ser executado de duas maneiras:
 
 ### Com Python localmente. Basta ter qualquer instalação recente e executar:
 
+    pip install --no-cache-dir -r requirements.txt
+
     py .\crawler.py
 
 ## NOTA:

@@ -5,6 +5,7 @@ import logging
 import pandas as pd
 import sqlite3
 from datetime import datetime
+from concurrent.futures import ThreadPoolExecutor
 
 base_url = 'https://www.imdb.com'
 
@@ -22,7 +23,12 @@ def main():
     get_movie_list(top_250_list)
 
 def get_movie_list(list):
-    response = requests.get(list)
+    try:
+        response = requests.get(list)
+    except requests.exceptions.RequestException as e:
+        log.error('\nNão foi possível obter lista de filmes.\nDados do Erro: ')
+        raise SystemExit(e)
+    
     parsed_response = bs(response.text, "html.parser")
     movie_list = parsed_response.select('td.titleColumn')
     log.info("\nObtendo lista de filmes\n")
@@ -37,59 +43,75 @@ def get_links(movie_list):
         link_list.append(link)
     get_movie_details(link_list)
 
+def get_movie(link):
+    try:
+        movie_request = requests.get(link, headers=base_headers)
+    except requests.exceptions.RequestException as e:
+        log.error(f'\nHouve um erro ao acessar os dados do filme: {link}.\nDados do Erro: ')
+        raise SystemExit(e)
+    return movie_request
+    
 def get_movie_details(link_list):
     detais_list = []
-    link_list = link_list[0:10]
-    for link in link_list:
-        movie_details = bs(requests.get(link, headers=base_headers).text, "html.parser").find('section',class_='ipc-page-section')
-
-        title = movie_details.find('h1', attrs={'data-testid': 'hero-title-block__title'}).text
-
-        log.info(f'\nExtraindo informações do filme: {title}\n')
         
-        metadata = movie_details.find('ul', attrs={'data-testid': 'hero-title-block__metadata'}).find_all('li', class_='ipc-inline-list__item')
+    log.info("\nIniciando Scraping\n")
+    
+    with ThreadPoolExecutor(max_workers=50) as executor:
+        for movie in executor.map(get_movie ,link_list):
+            if(movie.status_code != 200):
+                raise Exception("Houve algum erro de conexão. Não foi possível completar busca") 
+            movie_details = bs(movie.text, "html.parser").find('section',class_='ipc-page-section')
 
-        # Formatação básica caso tenha mais de uma estrela, diretor ou escritor
-        stars = movie_details.find(text=re.compile('Star')).parent.nextSibling.text
-        for stars_pattern in  re.findall(r'[^\s-][A-Z]', stars):
-            stars = stars.replace(stars_pattern, ', '.join(stars_pattern))
+            title = movie_details.find('h1', attrs={'data-testid': 'hero-title-block__title'}).text
+
+            log.info(f'\nExtraindo informações do filme: {title}\n')
+            
+            metadata = movie_details.find('ul', attrs={'data-testid': 'hero-title-block__metadata'}).find_all('li', class_='ipc-inline-list__item')
+
+            # Formatação básica caso tenha mais de uma estrela, diretor ou escritor
+            stars = movie_details.find(text=re.compile('Star')).parent.nextSibling.text
+            for stars_pattern in  re.findall(r'[^\s-][A-Z]', stars):
+                stars = stars.replace(stars_pattern, ', '.join(stars_pattern))
+            
+            director = movie_details.find('button', text=re.compile('Director'))
+            
+            # Validação para o caso específico de múltiplos diretores/ diretores não creditados
+            if director == None:
+                director = movie_details.find('a', text=re.compile('Director')).parent.text
+            else:
+                director = director.parent.find(role="presentation").text
+            for director_pattern in  re.findall(r'[^\s-][A-Z]', director):
+                director = director.replace(director_pattern, ', '.join(director_pattern))
+
+            writer = movie_details.find(text=re.compile('Writer')).parent.nextSibling.text
+            for writer_pattern in  re.findall(r'\)[A-Z]', writer):
+                writer = writer.replace(writer_pattern, ', '.join(writer_pattern))
+
+            description = movie_details.find(attrs={'data-testid': 'plot'})
+
+            # Tratativa caso a descrição seja loga demais, requerindo o clique no Read More...
+            if description.find('a',attrs={'data-testid':'plot-read-all-link'}) == None:
+                description = description.find('span').text
+            else:
+                description = description.find('a',attrs={'data-testid':'plot-read-all-link'}).parent.nextSibling.text
         
-        director = movie_details.find('button', text=re.compile('Director'))
-        
-        # Validação para o caso específico de múltiplos diretores/ diretores não creditados
-        if director == None:
-            director = movie_details.find('a', text=re.compile('Director')).parent.text
-        else:
-            director = director.parent.find(role="presentation").text
-        for director_pattern in  re.findall(r'[^\s-][A-Z]', director):
-            director = director.replace(director_pattern, ', '.join(director_pattern))
+            
+            movie_data = {
+                'title' : title,
+                'year' : metadata[0].find('span').string, 
+                'movieLength' : metadata[2].text, 
+                'description' : description, 
+                'director' : director, 
+                'writer' : writer, 
+                'stars' : stars, 
+                'imbdRating' : movie_details.find('div',attrs={'data-testid':'hero-rating-bar__aggregate-rating__score'}).text
+            }
+            detais_list.append(movie_data)
 
-        writer = movie_details.find(text=re.compile('Writer')).parent.nextSibling.text
-        for writer_pattern in  re.findall(r'\)[A-Z]', writer):
-            writer = writer.replace(writer_pattern, ', '.join(writer_pattern))
+    movies_output(detais_list)
 
-        description = movie_details.find(attrs={'data-testid': 'plot'})
-
-        # Tratativa caso a descrição seja loga demais, requerindo o clique no Read More...
-        if description.find('a',attrs={'data-testid':'plot-read-all-link'}) == None:
-            description = description.find('span').text
-        else:
-            description = description.find('a',attrs={'data-testid':'plot-read-all-link'}).parent.nextSibling.text
-       
-        
-        movie_data = {
-            'title' : title,
-            'year' : metadata[0].find('span').string, 
-            'movieLength' : metadata[2].text, 
-            'description' : description, 
-            'director' : director, 
-            'writer' : writer, 
-            'stars' : stars, 
-            'imbdRating' : movie_details.find('div',attrs={'data-testid':'hero-rating-bar__aggregate-rating__score'}).text
-        }
-        detais_list.append(movie_data)
-
-    # Formatação dos dados em data frame(Pandas)
+def movies_output(detais_list):
+        # Formatação dos dados em data frame(Pandas)
     movies_df = pd.DataFrame(detais_list, columns=[
         'title',
         'year',
